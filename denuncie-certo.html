@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Denuncie Certo: como denunciar maus-tratos a animais | Bússola Animal</title>
+  <meta name="description" content="Onde denunciar maus-tratos a cães e gatos no seu estado, que provas juntar e um assistente para montar o texto da denúncia.">
+  <meta property="og:title" content="Denuncie Certo | Bússola Animal">
+  <meta property="og:description" content="Onde denunciar maus-tratos, que provas juntar e como descrever o caso.">
+  <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+  <a class="pular" href="#canais">Pular para os canais de denúncia</a>
+
+  <header class="topo">
+    <a class="marca" href="index.html" aria-label="Bússola Animal, início">
+      <svg viewBox="0 0 40 40" width="36" height="36" aria-hidden="true">
+        <circle cx="20" cy="20" r="18" fill="#FFC93C" stroke="#17324D" stroke-width="3"/>
+        <path d="M20 7 L25 20 L20 33 L15 20 Z" fill="#FF5D73" stroke="#17324D" stroke-width="2" stroke-linejoin="round"/>
+        <circle cx="20" cy="20" r="3" fill="#17324D"/>
+      </svg>
+      <span>Bússola Animal</span>
+    </a>
+    <nav aria-label="Seções">
+      <a href="index.html#castra-aqui">Castra Aqui</a>
+      <a href="denuncie-certo.html" aria-current="page">Denuncie Certo</a>
+      <a href="primeiros-90-dias.html">Primeiros 90 Dias</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="capa capa-denuncia">
+      <svg class="bicho" viewBox="0 0 160 150" aria-hidden="true">
+        <path d="M36 62 L30 14 L70 42 Z" fill="#2B2B3A" stroke="#17324D" stroke-width="5" stroke-linejoin="round"/>
+        <path d="M124 62 L130 14 L90 42 Z" fill="#2B2B3A" stroke="#17324D" stroke-width="5" stroke-linejoin="round"/>
+        <ellipse cx="80" cy="86" rx="54" ry="46" fill="#2B2B3A" stroke="#17324D" stroke-width="5"/>
+        <ellipse cx="58" cy="80" rx="10" ry="12" fill="#FFC93C"/>
+        <ellipse cx="102" cy="80" rx="10" ry="12" fill="#FFC93C"/>
+        <ellipse cx="58" cy="80" rx="3" ry="10" fill="#17324D"/>
+        <ellipse cx="102" cy="80" rx="3" ry="10" fill="#17324D"/>
+        <path d="M74 100 L86 100 L80 107 Z" fill="#FF5D73"/>
+        <path d="M80 107 Q72 116 66 110 M80 107 Q88 116 94 110" fill="none" stroke="#FFFDF5" stroke-width="3" stroke-linecap="round"/>
+        <path d="M40 98 H14 M42 106 L18 114 M120 98 H146 M118 106 L142 114" stroke="#FFFDF5" stroke-width="3" stroke-linecap="round"/>
+      </svg>
+      <div>
+        <h1>Denuncie Certo</h1>
+        <p class="lide">Viu um animal sofrendo? A denúncia que anda é a que chega ao canal certo, com endereço completo e prova. Aqui você encontra os três.</p>
+      </div>
+    </section>
+
+    <section class="urgente" aria-labelledby="urgente-titulo">
+      <h2 id="urgente-titulo">Está acontecendo agora?</h2>
+      <p>Se o animal corre risco neste momento, não espere montar a denúncia.</p>
+      <a class="botao" href="tel:190">Ligar 190</a>
+    </section>
+
+    <section class="bloco" aria-labelledby="oque-titulo">
+      <h2 id="oque-titulo">O que é maus-tratos</h2>
+      <p class="apoio">Não é só bater. A lei alcança quem faz e também quem deixa de cuidar.</p>
+      <ul class="sinais">
+        <li>Agredir, ferir ou mutilar</li>
+        <li>Abandonar, na rua ou dentro de casa</li>
+        <li>Deixar sem água, comida ou abrigo</li>
+        <li>Manter preso ou acorrentado o tempo todo</li>
+        <li>Manter em lugar sujo ou pequeno demais</li>
+        <li>Negar atendimento veterinário a animal doente ou ferido</li>
+        <li>Promover rinhas</li>
+        <li>Explorar a reprodução de forma abusiva</li>
+      </ul>
+      <p class="lei">Maus-tratos é crime pela Lei 9.605/1998. Desde a Lei 14.064/2020, quando a vítima é cão ou gato a pena é de <strong>2 a 5 anos de reclusão</strong>, com multa e proibição da guarda. Se o animal morre, a pena aumenta.</p>
+    </section>
+
+    <section class="bloco bloco-claro" id="canais" aria-labelledby="canais-titulo">
+      <h2 id="canais-titulo">Onde denunciar</h2>
+      <p class="apoio">Estes caminhos valem em qualquer estado.</p>
+      <div id="canais-gerais" class="cartoes"></div>
+
+      <form class="busca" id="form-estado">
+        <label for="estado">E no seu estado?</label>
+        <div class="busca-linha">
+          <select id="estado" name="estado" class="campo">
+            <option value="">Escolha o estado</option>
+          </select>
+        </div>
+      </form>
+      <div id="resultado-estado" class="resultado" aria-live="polite"></div>
+    </section>
+
+    <section class="bloco" aria-labelledby="provas-titulo">
+      <h2 id="provas-titulo">Antes de denunciar, junte isto</h2>
+      <ol class="passos passos-soltos">
+        <li><span><strong>Endereço completo.</strong> Rua, número, bairro, cidade e um ponto de referência. Sem endereço a equipe não chega.</span></li>
+        <li><span><strong>Fotos ou vídeos.</strong> Feitos da rua ou da sua casa, mostrando o animal e o lugar. Guarde os arquivos originais.</span></li>
+        <li><span><strong>Datas e horários.</strong> Quando você viu e se a situação se repete.</span></li>
+        <li><span><strong>Descrição do animal.</strong> Espécie, cor, porte e quantos são.</span></li>
+        <li><span><strong>Testemunhas.</strong> Vizinhos que também viram ajudam a sustentar o caso.</span></li>
+      </ol>
+      <div class="aviso">
+        <h3>Sua segurança vem antes</h3>
+        <p>Não entre na casa nem no terreno e não enfrente o responsável. Isso pode colocar você e o animal em risco, e prova obtida com invasão pode se voltar contra quem denuncia.</p>
+      </div>
+    </section>
+
+    <section class="bloco bloco-claro" id="montar" aria-labelledby="montar-titulo">
+      <h2 id="montar-titulo">Monte o texto da denúncia</h2>
+      <p class="apoio">Responda o que souber. O texto é montado no seu aparelho e não é enviado a lugar nenhum. Depois é só copiar e colar no canal oficial.</p>
+      <form id="form-denuncia" class="formulario">
+        <div class="linha-campos">
+          <label>O que está acontecendo
+            <select name="tipo" class="campo">
+              <option>Agressão física</option>
+              <option>Abandono</option>
+              <option>Animal sem água, comida ou abrigo</option>
+              <option>Animal preso ou acorrentado o tempo todo</option>
+              <option>Animal em local sujo ou pequeno demais</option>
+              <option>Animal doente ou ferido sem atendimento</option>
+              <option>Outra situação de maus-tratos</option>
+            </select>
+          </label>
+          <label>Animal
+            <select name="especie" class="campo">
+              <option>cão</option>
+              <option>gato</option>
+              <option>cães</option>
+              <option>gatos</option>
+              <option>cães e gatos</option>
+              <option>outro animal</option>
+            </select>
+          </label>
+        </div>
+        <label>Como é o animal (cor, porte, quantos são)
+          <input name="descricao" class="campo" type="text" placeholder="Ex.: um cão caramelo de porte médio, muito magro">
+        </label>
+        <label>Endereço completo
+          <input name="endereco" class="campo" type="text" placeholder="Rua, número, bairro, cidade e estado" required>
+        </label>
+        <label>Ponto de referência
+          <input name="referencia" class="campo" type="text" placeholder="Ex.: casa de portão azul, ao lado da padaria">
+        </label>
+        <label>Quando você viu
+          <input name="quando" class="campo" type="text" placeholder="Ex.: todos os dias desde outubro, a última vez hoje às 8h">
+        </label>
+        <label>Conte o que você viu
+          <textarea name="relato" class="campo" rows="4" placeholder="Descreva com suas palavras, sem acusar ninguém pelo nome se não tiver certeza." required></textarea>
+        </label>
+        <fieldset>
+          <legend>O que você tem para comprovar</legend>
+          <label class="marca-caixa"><input type="checkbox" name="provas" value="fotos"> Fotos</label>
+          <label class="marca-caixa"><input type="checkbox" name="provas" value="vídeos"> Vídeos</label>
+          <label class="marca-caixa"><input type="checkbox" name="provas" value="testemunhas"> Testemunhas</label>
+        </fieldset>
+        <button type="submit">Montar o texto</button>
+      </form>
+      <div id="texto-pronto" class="texto-pronto" hidden>
+        <h3>Texto pronto</h3>
+        <textarea id="texto-denuncia" class="campo" rows="12" readonly aria-label="Texto da denúncia"></textarea>
+        <div class="acoes">
+          <button type="button" id="copiar">Copiar o texto</button>
+          <span id="copiado" role="status" aria-live="polite"></span>
+        </div>
+      </div>
+    </section>
+
+    <section class="bloco" aria-labelledby="vozes-titulo">
+      <h2 id="vozes-titulo">Vozes da causa</h2>
+      <p class="apoio">Pessoas e organizações que dão visibilidade a casos de maus-tratos. Seguir ou marcar um perfil ajuda a repercutir, mas <strong>não substitui a denúncia oficial</strong>: só a polícia e o Ministério Público podem investigar e punir.</p>
+      <div id="vozes" class="perfis"></div>
+      <h3 class="subtitulo">Organizações</h3>
+      <div id="organizacoes" class="perfis"></div>
+      <p class="nota">A lista é informativa. A Bússola Animal não tem vínculo com partidos, candidatos, pessoas ou organizações citadas, e a presença aqui não significa apoio político.</p>
+    </section>
+  </main>
+
+  <footer class="rodape">
+    <p>Bússola Animal é um projeto independente e aberto, sem vínculo com órgãos públicos. Confirme sempre no canal oficial indicado.</p>
+    <p>Animal em risco agora? Ligue <a href="tel:190">190</a>.</p>
+    <p><a href="https://github.com/moraesalves/bussola-animal">Código e dados no GitHub</a></p>
+  </footer>
+
+  <script src="js/denuncia.js" defer></script>
+</body>
+</html>

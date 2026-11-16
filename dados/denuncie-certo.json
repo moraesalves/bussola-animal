@@ -1,0 +1,79 @@
+{
+  "atualizado_em": "2026-11-16",
+  "geral": {
+    "canais": [
+      { "titulo": "Está acontecendo agora? Ligue 190", "texto": "A Polícia Militar atende flagrante e emergência em todo o país.", "href": "tel:190", "rotulo": "Ligar 190" },
+      { "titulo": "Qualquer delegacia da Polícia Civil", "texto": "Maus-tratos é crime, e toda delegacia pode registrar o boletim de ocorrência. Leve as provas que tiver." },
+      { "titulo": "Ministério Público do seu estado", "texto": "Recebe representações pelo site ou pela ouvidoria. É um bom caminho quando a denúncia na polícia não anda." },
+      { "titulo": "Animal silvestre? Ibama", "texto": "Para papagaios, macacos, jabutis e outros animais silvestres, a Linha Verde do Ibama atende no 0800 61 8080.", "href": "tel:0800618080", "rotulo": "Ligar 0800 61 8080" }
+    ]
+  },
+  "estados": [
+    { "uf": "SP", "nome": "São Paulo", "status": "conferido", "conferido_em": "2026-11-16",
+      "canais": [
+        { "titulo": "Depa, a Delegacia Eletrônica de Proteção Animal", "texto": "Registro pela internet, com fotos e vídeos. Você precisa se identificar, mas pode pedir sigilo dos seus dados. O sistema gera protocolo e senha para acompanhar o caso.", "href": "https://www.webdenuncia.sp.gov.br/depa", "rotulo": "Abrir a Depa" },
+        { "titulo": "Qualquer delegacia", "texto": "A denúncia também pode ser registrada pessoalmente, inclusive nas delegacias de meio ambiente." }
+      ],
+      "fontes": [ { "titulo": "Governo de São Paulo: como denunciar violência contra animais", "url": "https://www.agenciasp.sp.gov.br/presenciou-uma-violencia-contra-animais-saiba-como-denunciar/" } ] },
+    { "uf": "RJ", "nome": "Rio de Janeiro", "status": "conferido", "conferido_em": "2026-11-16",
+      "canais": [
+        { "titulo": "Linha Verde do Disque Denúncia", "texto": "Atende denúncias de crimes ambientais e contra animais, com anonimato garantido.", "href": "tel:03002531177", "rotulo": "Ligar 0300 253 1177" },
+        { "titulo": "Qualquer delegacia da Polícia Civil", "texto": "O registro de ocorrência pode ser feito em qualquer delegacia do estado." }
+      ],
+      "observacao": "A página oficial que traz esses canais é de 2023. Confirme o número antes de divulgar.",
+      "fontes": [ { "titulo": "Instituto de Segurança Pública do RJ", "url": "https://www.isp.rj.gov.br/node/669" } ] },
+    { "uf": "MG", "nome": "Minas Gerais", "status": "conferido", "conferido_em": "2026-11-16",
+      "canais": [
+        { "titulo": "Disque Denúncia 181", "texto": "Denúncia anônima por telefone.", "href": "tel:181", "rotulo": "Ligar 181" },
+        { "titulo": "LigMinas 155", "texto": "Central de atendimento do governo estadual, indicada pela Secretaria de Meio Ambiente para casos de maus-tratos.", "href": "tel:155", "rotulo": "Ligar 155" },
+        { "titulo": "Qualquer delegacia da Polícia Civil", "texto": "Registro pessoal, levando o material que comprove o que você viu." }
+      ],
+      "fontes": [ { "titulo": "Governo de Minas: Fauna Doméstica (Semad)", "url": "https://semad.mg.gov.br/fauna-domestica" } ] },
+    { "uf": "PR", "nome": "Paraná", "status": "conferido", "conferido_em": "2026-11-16",
+      "canais": [
+        { "titulo": "Boletim de ocorrência pela internet", "texto": "A Polícia Civil do Paraná tem um serviço próprio para registrar maus-tratos a animais ocorridos no estado.", "href": "https://www.181.pr.gov.br/servicos/Servicos/BOs/Registrar-Boletim-de-Ocorrencia-de-maus-tratos-a-animais-4EoVWeNn", "rotulo": "Registrar pela internet" },
+        { "titulo": "Disque Denúncia 181", "texto": "Denúncia anônima por telefone ou pelo site.", "href": "tel:181", "rotulo": "Ligar 181" },
+        { "titulo": "Polícia Civil 197", "texto": "Telefone da Polícia Civil do Paraná.", "href": "tel:197", "rotulo": "Ligar 197" }
+      ],
+      "fontes": [ { "titulo": "Governo do Paraná: registrar BO de maus-tratos a animais", "url": "https://www.181.pr.gov.br/servicos/Servicos/BOs/Registrar-Boletim-de-Ocorrencia-de-maus-tratos-a-animais-4EoVWeNn" } ] },
+    { "uf": "RS", "nome": "Rio Grande do Sul", "status": "conferido", "conferido_em": "2026-11-16",
+      "canais": [
+        { "titulo": "Delegacia Online Amiga dos Animais", "texto": "Registro pela internet de maus-tratos a animais domésticos, com a mesma validade do atendimento presencial.", "href": "https://www.delegaciaonline.rs.gov.br", "rotulo": "Abrir a Delegacia Online" },
+        { "titulo": "Disque Denúncia 181", "texto": "Denúncia por telefone.", "href": "tel:181", "rotulo": "Ligar 181" },
+        { "titulo": "Qualquer delegacia de polícia", "texto": "O estado tem delegacias com o selo Amiga dos Animais, com equipes voltadas a esses casos." }
+      ],
+      "fontes": [ { "titulo": "Governo do RS: delegacias Amiga dos Animais", "url": "https://www.estado.rs.gov.br/rio-grande-do-sul-conta-com-62-delegacias-com-o-selo-amiga-dos-animais-para-investigar-casos-de-maus-tratos" } ] },
+    { "uf": "AC", "nome": "Acre", "status": "em_verificacao" },
+    { "uf": "AL", "nome": "Alagoas", "status": "em_verificacao" },
+    { "uf": "AP", "nome": "Amapá", "status": "em_verificacao" },
+    { "uf": "AM", "nome": "Amazonas", "status": "em_verificacao" },
+    { "uf": "BA", "nome": "Bahia", "status": "em_verificacao" },
+    { "uf": "CE", "nome": "Ceará", "status": "em_verificacao" },
+    { "uf": "DF", "nome": "Distrito Federal", "status": "em_verificacao" },
+    { "uf": "ES", "nome": "Espírito Santo", "status": "em_verificacao" },
+    { "uf": "GO", "nome": "Goiás", "status": "em_verificacao" },
+    { "uf": "MA", "nome": "Maranhão", "status": "em_verificacao" },
+    { "uf": "MT", "nome": "Mato Grosso", "status": "em_verificacao" },
+    { "uf": "MS", "nome": "Mato Grosso do Sul", "status": "em_verificacao" },
+    { "uf": "PA", "nome": "Pará", "status": "em_verificacao" },
+    { "uf": "PB", "nome": "Paraíba", "status": "em_verificacao" },
+    { "uf": "PE", "nome": "Pernambuco", "status": "em_verificacao" },
+    { "uf": "PI", "nome": "Piauí", "status": "em_verificacao" },
+    { "uf": "RN", "nome": "Rio Grande do Norte", "status": "em_verificacao" },
+    { "uf": "RO", "nome": "Rondônia", "status": "em_verificacao" },
+    { "uf": "RR", "nome": "Roraima", "status": "em_verificacao" },
+    { "uf": "SC", "nome": "Santa Catarina", "status": "em_verificacao" },
+    { "uf": "SE", "nome": "Sergipe", "status": "em_verificacao" },
+    { "uf": "TO", "nome": "Tocantins", "status": "em_verificacao" }
+  ],
+  "vozes": [
+    { "nome": "Luisa Mell", "descricao": "Ativista e apresentadora, uma das vozes mais conhecidas da causa animal no país.", "instagram": "luisamell" },
+    { "nome": "Delegado Bruno Lima", "descricao": "Delegado de polícia e deputado estadual por São Paulo, atua em casos de maus-tratos.", "instagram": "del.brunolima" },
+    { "nome": "Felipe Becari", "descricao": "Policial civil e político paulista, conhecido pelo trabalho como protetor de animais.", "instagram": "felipebecari" },
+    { "nome": "Julinho Casares", "descricao": "Defensor da causa animal, mostra resgates de cães e gatos em situação de abandono.", "instagram": "julinhocasares" }
+  ],
+  "organizacoes": [
+    { "nome": "Instituto Ampara Animal", "descricao": "Organização que apoia abrigos e protetores e publica guias sobre como identificar e denunciar maus-tratos.", "url": "https://institutoamparanimal.org.br" },
+    { "nome": "Instituto Caramelo", "descricao": "Organização de resgate, reabilitação e adoção de animais vítimas de maus-tratos e abandono.", "url": "https://institutocaramelo.org" }
+  ]
+}

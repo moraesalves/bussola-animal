@@ -2,7 +2,7 @@
 
 Um guia gratuito e aberto que orienta quem quer ajudar cães e gatos até o caminho certo: onde castrar de graça, como denunciar maus-tratos e como atravessar os primeiros meses depois de uma adoção.
 
-> **Situação:** o módulo Castra Aqui está no ar com as 39 cidades da capital e Região Metropolitana de São Paulo. Vinte e três têm ficha completa conferida na fonte oficial. As outras dezesseis mostram o caminho geral e, quando existe, a pista do que já foi encontrado.
+> **Situação:** os três módulos estão no ar. Onde não há fonte oficial atual, a ficha diz "em verificação" e mostra o caminho geral.
 
 **Site:** https://moraesalves.github.io/bussola-animal/
 
@@ -16,9 +16,9 @@ A Bússola Animal não cria serviço novo. Ela junta o que já existe, confere n
 
 | Módulo | O que faz | Situação |
 |---|---|---|
-| **Castra Aqui** | Você informa a cidade e recebe uma ficha: quais programas de castração gratuita chegam ali, onde se inscrever, documentos exigidos e quem tem prioridade. | No ar (23 de 39 cidades conferidas) |
-| **Denuncie Certo** | Guia por estado de onde denunciar maus-tratos, que provas reunir e como descrever o caso. | Planejado |
-| **Primeiros 90 Dias** | Guia para quem acabou de adotar: adaptação semana a semana e o que fazer antes de desistir. | Planejado |
+| **Castra Aqui** | Você informa a cidade e recebe uma ficha: quais programas de castração gratuita chegam ali, onde se inscrever, documentos exigidos e quem tem prioridade. | No ar. 23 de 39 cidades conferidas (capital e Região Metropolitana de São Paulo) |
+| **Denuncie Certo** | Onde denunciar maus-tratos em cada estado, que provas juntar e um assistente que monta o texto da denúncia no próprio aparelho. | No ar. 5 de 27 estados conferidos (SP, RJ, MG, PR e RS) |
+| **Primeiros 90 Dias** | Guia para quem acabou de adotar um cão ou gato: o que esperar em cada fase, lista de tarefas e o que tentar antes de desistir. | No ar |
 
 ## Princípios
 
@@ -39,10 +39,14 @@ Não é preciso saber programar.
 ## Estrutura do repositório
 
 ```
-index.html              página do site
-css/ js/ img/ fontes/   visual, comportamento, ícone e fontes
-dados/castra-aqui.json  fichas de castração, uma por município
-docs/diario.md          diário do projeto: decisões, fontes e correções
+index.html               início e Castra Aqui
+denuncie-certo.html      módulo Denuncie Certo
+primeiros-90-dias.html   módulo Primeiros 90 Dias
+css/ js/ img/ fontes/    visual, comportamento, ícone e fontes
+dados/castra-aqui.json   fichas de castração, uma por município
+dados/denuncie-certo.json canais de denúncia por estado e perfis citados
+docs/diario.md           diário do projeto: decisões, fontes e correções
+docs/artigo-dev.md       rascunho do artigo para o DEV
 ```
 
 ## Aviso

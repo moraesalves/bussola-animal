@@ -60,7 +60,28 @@ O problema da castração gratuita não é geográfico, é de burocracia. Há tr
 - **Segunda busca valeu a pena:** refazer a pesquisa de Franco da Rocha com outros termos trouxe as regras completas do CastraPet e a confirmação na lista de serviços da Prefeitura.
 - **Limite do método:** tudo foi feito por busca em páginas públicas. Para as 16 restantes, o caminho é ligar para a prefeitura ou contar com moradores.
 
+### Denuncie Certo
+
+- **Estrutura:** botão de emergência (190) no topo, o que a lei considera maus-tratos, canais que valem em todo o país, canais por estado, lista de provas, montador do texto da denúncia e perfis que dão visibilidade à causa.
+- **Estados conferidos em fonte oficial:** São Paulo (Depa), Rio de Janeiro (Linha Verde do Disque Denúncia), Minas Gerais (181 e LigMinas 155), Paraná (BO pela internet, 181 e 197) e Rio Grande do Sul (Delegacia Online Amiga dos Animais e 181). Os outros 22 mostram o caminho geral.
+- **Montador do texto:** roda inteiro no navegador. Nada do que a pessoa digita sai do aparelho, o que mantém a promessa de não coletar dados.
+- **Vozes da causa:** Luisa Mell, Delegado Bruno Lima, Felipe Becari e Julinho Casares, com o Instagram de cada um, além do Instituto Ampara Animal e do Instituto Caramelo. Só entrou perfil com endereço confirmado em fonte pública. As descrições são neutras e a seção avisa que marcar um perfil não substitui a denúncia oficial e que a lista não é apoio político.
+- **Achado:** a pena para maus-tratos a cães e gatos (2 a 5 anos, Lei 14.064/2020) aparece em várias páginas oficiais, mas com a lei antiga em outras. O site cita as duas leis.
+
+### Primeiros 90 Dias
+
+- **Formato:** a regra prática dos três tempos (3 dias, 3 semanas, 3 meses), quatro fases com lista de tarefas, problemas comuns e um bloco "antes de desistir".
+- **Cão ou gato:** um botão troca as tarefas específicas de cada espécie.
+- **Lista de tarefas:** as marcações ficam no armazenamento do próprio navegador. Se ele estiver bloqueado, a página funciona do mesmo jeito, só não lembra.
+- **Ligação entre módulos:** a tarefa de castrar leva ao Castra Aqui, e o bloco sobre abandono cita a mesma lei do Denuncie Certo.
+- **Limite:** o conteúdo é orientação geral de adaptação, sem revisão de médico-veterinário. A página diz isso.
+
+### Testes do site completo
+
+- Navegador automatizado em tela de computador e de celular, nas três páginas: bússola e links, busca por cidade, as 39 fichas, seleção de estado, montagem e cópia do texto da denúncia, troca cão/gato e persistência das tarefas. Sem erros e sem rolagem lateral.
+
 ### Pendências
 
-- 16 cidades em verificação, à espera de confirmação por telefone ou de colaboração de moradores.
-- Módulos Denuncie Certo e Primeiros 90 Dias.
+- 16 cidades e 22 estados em verificação, à espera de confirmação por telefone ou de colaboração de moradores.
+- Revisão do guia Primeiros 90 Dias por um médico-veterinário.
+- Conferir de tempos em tempos os perfis citados e os canais por estado.

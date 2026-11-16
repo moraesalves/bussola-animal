@@ -21,3 +21,12 @@ Uma entrada por município, dentro de `municipios`.
 | `conferido_em` | data da última verificação (AAAA-MM-DD) |
 
 Regras: só entra o que estiver em página oficial; datas de mutirão não entram; quando a fonte não informa algo, a ficha diz isso em vez de supor.
+
+## `denuncie-certo.json`
+
+- `geral.canais`: caminhos que valem em todo o país.
+- `estados`: uma entrada por unidade da federação, com `status` (`conferido` ou `em_verificacao`), `canais` (`{titulo, texto, href, rotulo}`), `fontes` e `conferido_em`.
+- `vozes`: pessoas citadas, com `nome`, `descricao` e `instagram` (sem o @).
+- `organizacoes`: entidades citadas, com `nome`, `descricao` e `url`.
+
+Regra para `vozes`: só entra perfil cujo endereço foi confirmado em fonte pública, e a descrição é neutra, sem partido nem adjetivo.
