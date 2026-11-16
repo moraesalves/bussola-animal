@@ -25,15 +25,26 @@
         "Comprovante da vacina contra raiva, se tiver"
       ],
       "contatos": [
-        { "rotulo": "Pedir pela internet", "valor": "Portal SP 156", "href": "https://sp156.prefeitura.sp.gov.br/portal/servicos/informacao?servico=3726" },
-        { "rotulo": "Dúvidas", "valor": "cosap@prefeitura.sp.gov.br", "href": "mailto:cosap@prefeitura.sp.gov.br" }
+        {
+          "rotulo": "Pedir pela internet",
+          "valor": "Portal SP 156",
+          "href": "https://sp156.prefeitura.sp.gov.br/portal/servicos/informacao?servico=3726"
+        },
+        {
+          "rotulo": "Dúvidas",
+          "valor": "cosap@prefeitura.sp.gov.br",
+          "href": "mailto:cosap@prefeitura.sp.gov.br"
+        }
       ],
       "observacoes": [
         "Prefere resolver pessoalmente? Dá para pedir nas Praças de Atendimento da Prefeitura, com agendamento. Não precisa levar o animal.",
         "Em bairros prioritários também há mutirões e o Castramóvel. A inscrição acontece antes da data e é avisada com cerca de uma semana de antecedência."
       ],
       "fontes": [
-        { "titulo": "Prefeitura de São Paulo: Castração gratuita", "url": "https://prefeitura.sp.gov.br/w/servico/castracao-gratuita" }
+        {
+          "titulo": "Prefeitura de São Paulo: Castração gratuita",
+          "url": "https://prefeitura.sp.gov.br/w/servico/castracao-gratuita"
+        }
       ],
       "conferido_em": "2026-11-16"
     },
@@ -57,15 +68,30 @@
         "Comprovante de residência no seu nome"
       ],
       "contatos": [
-        { "rotulo": "Agendar pela internet", "valor": "dpan.guarulhos.sp.gov.br", "href": "https://dpan.guarulhos.sp.gov.br" },
-        { "rotulo": "Telefone", "valor": "(11) 2441-4656 ou (11) 2457-2112", "href": "tel:+551124414656" },
-        { "rotulo": "E-mail", "valor": "dpan@guarulhos.sp.gov.br", "href": "mailto:dpan@guarulhos.sp.gov.br" }
+        {
+          "rotulo": "Agendar pela internet",
+          "valor": "dpan.guarulhos.sp.gov.br",
+          "href": "https://dpan.guarulhos.sp.gov.br"
+        },
+        {
+          "rotulo": "Telefone",
+          "valor": "(11) 2441-4656 ou (11) 2457-2112",
+          "href": "tel:+551124414656"
+        },
+        {
+          "rotulo": "E-mail",
+          "valor": "dpan@guarulhos.sp.gov.br",
+          "href": "mailto:dpan@guarulhos.sp.gov.br"
+        }
       ],
       "observacoes": [
         "O Castramóvel atende bairro a bairro. Nesse caso o agendamento é presencial, no local onde o veículo estiver. Ligue para o DPAN para saber a programação."
       ],
       "fontes": [
-        { "titulo": "Prefeitura de Guarulhos: Carta de Serviços, Castração de Animais", "url": "https://www.guarulhos.sp.gov.br/cartadeservicos/meio-ambiente/castracao-de-animais" }
+        {
+          "titulo": "Prefeitura de Guarulhos: Carta de Serviços, Castração de Animais",
+          "url": "https://www.guarulhos.sp.gov.br/cartadeservicos/meio-ambiente/castracao-de-animais"
+        }
       ],
       "conferido_em": "2026-11-16"
     },
@@ -89,17 +115,39 @@
         "Comprovante de endereço"
       ],
       "contatos": [
-        { "rotulo": "Pedir pela internet", "valor": "santoandre.colab.re", "href": "https://santoandre.colab.re" },
-        { "rotulo": "WhatsApp", "valor": "(11) 4433-0123", "href": "https://wa.me/551144330123" },
-        { "rotulo": "Telefone", "valor": "(11) 4433-1958", "href": "tel:+551144331958" },
-        { "rotulo": "RG Animal", "valor": "sinpatinhas.mma.gov.br", "href": "https://sinpatinhas.mma.gov.br" }
+        {
+          "rotulo": "Pedir pela internet",
+          "valor": "santoandre.colab.re",
+          "href": "https://santoandre.colab.re"
+        },
+        {
+          "rotulo": "WhatsApp",
+          "valor": "(11) 4433-0123",
+          "href": "https://wa.me/551144330123"
+        },
+        {
+          "rotulo": "Telefone",
+          "valor": "(11) 4433-1958",
+          "href": "tel:+551144331958"
+        },
+        {
+          "rotulo": "RG Animal",
+          "valor": "sinpatinhas.mma.gov.br",
+          "href": "https://sinpatinhas.mma.gov.br"
+        }
       ],
       "observacoes": [
         "As cirurgias acontecem em clínicas credenciadas e no Castramóvel, que percorre os bairros."
       ],
       "fontes": [
-        { "titulo": "Prefeitura de Santo André: agendamento digital da castração", "url": "https://web.santoandre.sp.gov.br/portal/noticias/0/3/18918/santo-andre-digitaliza-agendamento-de-castracao-gratuita-de-caes-e-gatos" },
-        { "titulo": "Prefeitura de Santo André: Castramóvel em Paranapiacaba (jan/2026)", "url": "https://web.santoandre.sp.gov.br/portal/noticias/0/3/19906/paranapiacaba-recebe-castramovel-a-partir-desta-quarta-feira" }
+        {
+          "titulo": "Prefeitura de Santo André: agendamento digital da castração",
+          "url": "https://web.santoandre.sp.gov.br/portal/noticias/0/3/18918/santo-andre-digitaliza-agendamento-de-castracao-gratuita-de-caes-e-gatos"
+        },
+        {
+          "titulo": "Prefeitura de Santo André: Castramóvel em Paranapiacaba (jan/2026)",
+          "url": "https://web.santoandre.sp.gov.br/portal/noticias/0/3/19906/paranapiacaba-recebe-castramovel-a-partir-desta-quarta-feira"
+        }
       ],
       "conferido_em": "2026-11-16"
     },
@@ -122,16 +170,30 @@
         "Pergunte no agendamento quais documentos levar. A página oficial não traz a lista."
       ],
       "contatos": [
-        { "rotulo": "WhatsApp (castração)", "valor": "(11) 99227-1959", "href": "https://wa.me/5511992271959" },
-        { "rotulo": "Telefone do hospital", "valor": "(11) 4365-3349", "href": "tel:+551143653349" }
+        {
+          "rotulo": "WhatsApp (castração)",
+          "valor": "(11) 99227-1959",
+          "href": "https://wa.me/5511992271959"
+        },
+        {
+          "rotulo": "Telefone do hospital",
+          "valor": "(11) 4365-3349",
+          "href": "tel:+551143653349"
+        }
       ],
       "observacoes": [
         "As vagas dependem de disponibilidade.",
         "A cidade também recebe mutirões e o Castramóvel em bairros mais distantes. As datas são divulgadas pela Prefeitura."
       ],
       "fontes": [
-        { "titulo": "Guia de Serviços de São Bernardo: Hospital Público Veterinário", "url": "https://guiadeservicos.saobernardo.sp.gov.br/guia-de-servicos/servicos/217242/mostrar?assuntoOrigem=221" },
-        { "titulo": "Prefeitura de São Bernardo: Hospital Público Veterinário", "url": "https://www.saobernardo.sp.gov.br/en/hospital-publico-veterinario" }
+        {
+          "titulo": "Guia de Serviços de São Bernardo: Hospital Público Veterinário",
+          "url": "https://guiadeservicos.saobernardo.sp.gov.br/guia-de-servicos/servicos/217242/mostrar?assuntoOrigem=221"
+        },
+        {
+          "titulo": "Prefeitura de São Bernardo: Hospital Público Veterinário",
+          "url": "https://www.saobernardo.sp.gov.br/en/hospital-publico-veterinario"
+        }
       ],
       "conferido_em": "2026-11-16"
     },
@@ -155,15 +217,30 @@
         "Comprovante de residência"
       ],
       "contatos": [
-        { "rotulo": "Onde ir", "valor": "Rua Almirante Tamandaré, 191, Vila Bocaina", "href": "https://www.google.com/maps/search/?api=1&query=Rua+Almirante+Tamandar%C3%A9+191+Vila+Bocaina+Mau%C3%A1" },
-        { "rotulo": "Horário", "valor": "Segunda a sexta, das 8h às 17h", "href": "" },
-        { "rotulo": "Telefone", "valor": "(11) 2312-9818 ou (11) 4512-7489", "href": "tel:+551123129818" }
+        {
+          "rotulo": "Onde ir",
+          "valor": "Rua Almirante Tamandaré, 191, Vila Bocaina",
+          "href": "https://www.google.com/maps/search/?api=1&query=Rua+Almirante+Tamandar%C3%A9+191+Vila+Bocaina+Mau%C3%A1"
+        },
+        {
+          "rotulo": "Horário",
+          "valor": "Segunda a sexta, das 8h às 17h",
+          "href": ""
+        },
+        {
+          "rotulo": "Telefone",
+          "valor": "(11) 2312-9818 ou (11) 4512-7489",
+          "href": "tel:+551123129818"
+        }
       ],
       "observacoes": [
         "A cidade também tem Castramóvel. Pergunte na AME Animal onde ele está atendendo."
       ],
       "fontes": [
-        { "titulo": "Prefeitura de Mauá: AME Animal, Castração de Cães e Gatos", "url": "https://ameanimal.maua.sp.gov.br/castracao-caes-e-gatos/" }
+        {
+          "titulo": "Prefeitura de Mauá: AME Animal, Castração de Cães e Gatos",
+          "url": "https://ameanimal.maua.sp.gov.br/castracao-caes-e-gatos/"
+        }
       ],
       "conferido_em": "2026-11-16"
     },
@@ -185,48 +262,466 @@
         "Confira no aplicativo o que levar. A página oficial não traz a lista."
       ],
       "contatos": [
-        { "rotulo": "Onde é feito", "valor": "Rua Catarina Rios Giachelo, 185, Colônia", "href": "https://www.google.com/maps/search/?api=1&query=Rua+Catarina+Rios+Giachelo+185+Ribeir%C3%A3o+Pires" }
+        {
+          "rotulo": "Onde é feito",
+          "valor": "Rua Catarina Rios Giachelo, 185, Colônia",
+          "href": "https://www.google.com/maps/search/?api=1&query=Rua+Catarina+Rios+Giachelo+185+Ribeir%C3%A3o+Pires"
+        }
       ],
       "observacoes": [
         "A cidade também recebe mutirões do Governo do Estado. Nesses casos a inscrição costuma ser presencial, no mesmo endereço."
       ],
       "fontes": [
-        { "titulo": "Prefeitura de Ribeirão Pires: campanha permanente de castração", "url": "https://www.ribeiraopires.sp.gov.br/portal/noticias/0/3/8082/ribeirao-pires-mantem-campanha-permanente-de-castracao-gratuita-para-caes-e-gatos" }
+        {
+          "titulo": "Prefeitura de Ribeirão Pires: campanha permanente de castração",
+          "url": "https://www.ribeiraopires.sp.gov.br/portal/noticias/0/3/8082/ribeirao-pires-mantem-campanha-permanente-de-castracao-gratuita-para-caes-e-gatos"
+        }
       ],
       "conferido_em": "2026-11-16"
     },
-    { "id": "aruja", "nome": "Arujá", "status": "em_verificacao" },
-    { "id": "barueri", "nome": "Barueri", "status": "em_verificacao" },
-    { "id": "biritiba-mirim", "nome": "Biritiba-Mirim", "status": "em_verificacao" },
-    { "id": "caieiras", "nome": "Caieiras", "status": "em_verificacao" },
-    { "id": "cajamar", "nome": "Cajamar", "status": "em_verificacao" },
-    { "id": "carapicuiba", "nome": "Carapicuíba", "status": "em_verificacao" },
-    { "id": "cotia", "nome": "Cotia", "status": "em_verificacao" },
-    { "id": "diadema", "nome": "Diadema", "status": "em_verificacao" },
-    { "id": "embu-das-artes", "nome": "Embu das Artes", "status": "em_verificacao" },
-    { "id": "embu-guacu", "nome": "Embu-Guaçu", "status": "em_verificacao" },
-    { "id": "ferraz-de-vasconcelos", "nome": "Ferraz de Vasconcelos", "status": "em_verificacao" },
-    { "id": "francisco-morato", "nome": "Francisco Morato", "status": "em_verificacao" },
-    { "id": "franco-da-rocha", "nome": "Franco da Rocha", "status": "em_verificacao" },
-    { "id": "guararema", "nome": "Guararema", "status": "em_verificacao" },
-    { "id": "itapecerica-da-serra", "nome": "Itapecerica da Serra", "status": "em_verificacao" },
-    { "id": "itapevi", "nome": "Itapevi", "status": "em_verificacao" },
-    { "id": "itaquaquecetuba", "nome": "Itaquaquecetuba", "status": "em_verificacao" },
-    { "id": "jandira", "nome": "Jandira", "status": "em_verificacao" },
-    { "id": "juquitiba", "nome": "Juquitiba", "status": "em_verificacao" },
-    { "id": "mairipora", "nome": "Mairiporã", "status": "em_verificacao" },
-    { "id": "mogi-das-cruzes", "nome": "Mogi das Cruzes", "status": "em_verificacao" },
-    { "id": "osasco", "nome": "Osasco", "status": "em_verificacao" },
-    { "id": "pirapora-do-bom-jesus", "nome": "Pirapora do Bom Jesus", "status": "em_verificacao" },
-    { "id": "poa", "nome": "Poá", "status": "em_verificacao" },
-    { "id": "rio-grande-da-serra", "nome": "Rio Grande da Serra", "status": "em_verificacao" },
-    { "id": "salesopolis", "nome": "Salesópolis", "status": "em_verificacao" },
-    { "id": "santa-isabel", "nome": "Santa Isabel", "status": "em_verificacao" },
-    { "id": "santana-de-parnaiba", "nome": "Santana de Parnaíba", "status": "em_verificacao" },
-    { "id": "sao-caetano-do-sul", "nome": "São Caetano do Sul", "status": "em_verificacao" },
-    { "id": "sao-lourenco-da-serra", "nome": "São Lourenço da Serra", "status": "em_verificacao" },
-    { "id": "suzano", "nome": "Suzano", "status": "em_verificacao" },
-    { "id": "taboao-da-serra", "nome": "Taboão da Serra", "status": "em_verificacao" },
-    { "id": "vargem-grande-paulista", "nome": "Vargem Grande Paulista", "status": "em_verificacao" }
+    {
+      "id": "aruja",
+      "nome": "Arujá",
+      "status": "em_verificacao"
+    },
+    {
+      "id": "barueri",
+      "nome": "Barueri",
+      "status": "conferido",
+      "orgao": "Cepad, Centro de Proteção ao Animal Doméstico",
+      "programa": "Mutirão de castração do Cepad",
+      "quem": [
+        "Moradores de Barueri com animal registrado na cidade (RGA).",
+        "Em 2026, animais de 7 meses a 7 anos e com menos de 25 kg."
+      ],
+      "passos": [
+        "Faça o RGA, o registro do animal em Barueri. Ele precisa ter seu CPF e um e-mail válido.",
+        "Acompanhe no site da Prefeitura a data de abertura do agendamento. As vagas abrem às 8h e acabam rápido.",
+        "No dia, agende pelo Portal Pet. O sistema informa data, local e orientações.",
+        "Imprima a ficha de agendamento e leve no dia da cirurgia."
+      ],
+      "documentos": [
+        "Número do RGA do animal",
+        "Ficha de agendamento impressa, preenchida e assinada"
+      ],
+      "contatos": [
+        {
+          "rotulo": "Informações e Portal Pet",
+          "valor": "Página do Cepad",
+          "href": "https://portal.barueri.sp.gov.br/cidadao/animais/cepad"
+        }
+      ],
+      "observacoes": [
+        "O agendamento é só pela internet e só fica ativo nas datas divulgadas."
+      ],
+      "fontes": [
+        {
+          "titulo": "Prefeitura de Barueri: Cepad",
+          "url": "https://portal.barueri.sp.gov.br/cidadao/animais/cepad"
+        },
+        {
+          "titulo": "Prefeitura de Barueri: agendamento de fevereiro de 2026",
+          "url": "https://portal.barueri.sp.gov.br/Noticia/26-01-2026-agendamento-de-castracao-gratuita-de-pets-em-Barueri-recomeca-dia-4-de-fevereiro"
+        }
+      ],
+      "conferido_em": "2026-11-16"
+    },
+    {
+      "id": "biritiba-mirim",
+      "nome": "Biritiba-Mirim",
+      "status": "em_verificacao"
+    },
+    {
+      "id": "caieiras",
+      "nome": "Caieiras",
+      "status": "em_verificacao"
+    },
+    {
+      "id": "cajamar",
+      "nome": "Cajamar",
+      "status": "em_verificacao"
+    },
+    {
+      "id": "carapicuiba",
+      "nome": "Carapicuíba",
+      "status": "conferido",
+      "orgao": "Vigilância em Zoonoses, Secretaria de Saúde",
+      "programa": "Mutirões de castração gratuita",
+      "quem": [
+        "Moradores de Carapicuíba maiores de idade.",
+        "Nas últimas edições, um animal por pessoa."
+      ],
+      "passos": [
+        "Acompanhe o site e as redes sociais da Prefeitura para saber a data e o local da próxima inscrição.",
+        "Vá pessoalmente no dia da inscrição. As senhas são limitadas.",
+        "Leve o animal na data marcada para a cirurgia."
+      ],
+      "documentos": [
+        "RG original",
+        "Comprovante de residência de Carapicuíba no seu nome"
+      ],
+      "contatos": [
+        {
+          "rotulo": "Vigilância em Zoonoses",
+          "valor": "Rua Maracaí, 16A, Cidade Ariston",
+          "href": "https://www.google.com/maps/search/?api=1&query=Rua+Maraca%C3%AD+16A+Carapicu%C3%ADba"
+        },
+        {
+          "rotulo": "Telefone",
+          "valor": "(11) 4164-3866",
+          "href": "tel:+551141643866"
+        },
+        {
+          "rotulo": "Horário",
+          "valor": "Segunda a sexta, das 8h às 17h",
+          "href": ""
+        }
+      ],
+      "observacoes": [
+        "Não há fila permanente publicada: a castração acontece em mutirões, com inscrição presencial em datas avisadas pela Prefeitura."
+      ],
+      "fontes": [
+        {
+          "titulo": "Prefeitura de Carapicuíba: Vigilância em Zoonoses",
+          "url": "https://www.carapicuiba.sp.gov.br/servico/view/161/vigilancia-em-zoonoses"
+        },
+        {
+          "titulo": "Prefeitura de Carapicuíba: inscrições de julho de 2026",
+          "url": "https://www.carapicuiba.sp.gov.br/noticia/view/4836/inscricoes-para-castracao-gratuita-de-caes-e-gatos-serao-abertas-nesta-quinta-feira-16"
+        }
+      ],
+      "conferido_em": "2026-11-16"
+    },
+    {
+      "id": "cotia",
+      "nome": "Cotia",
+      "status": "conferido",
+      "orgao": "Setor de Zoonoses, Secretaria de Saúde",
+      "programa": "Ações de castração de cães e gatos",
+      "quem": [
+        "Moradores de Cotia."
+      ],
+      "passos": [
+        "Acompanhe o site da Prefeitura: as inscrições abrem antes de cada ação de castração.",
+        "Faça a inscrição pela internet, na página da Secretaria de Saúde. Só é atendido quem se inscreveu antes.",
+        "Leve o animal no dia e horário agendados."
+      ],
+      "documentos": [
+        "Comprovante da inscrição",
+        "Confirme na inscrição o que mais levar."
+      ],
+      "contatos": [
+        {
+          "rotulo": "Site da Prefeitura",
+          "valor": "cotia.sp.gov.br",
+          "href": "https://cotia.sp.gov.br"
+        }
+      ],
+      "observacoes": [
+        "As vagas são limitadas e as ações mudam de bairro a cada edição."
+      ],
+      "fontes": [
+        {
+          "titulo": "Prefeitura de Cotia: inscrições para castração (2026)",
+          "url": "https://cotia.sp.gov.br/inscricoes-abertas-para-castracao-de-caes-e-gatos/"
+        }
+      ],
+      "conferido_em": "2026-11-16"
+    },
+    {
+      "id": "diadema",
+      "nome": "Diadema",
+      "status": "em_verificacao"
+    },
+    {
+      "id": "embu-das-artes",
+      "nome": "Embu das Artes",
+      "status": "em_verificacao"
+    },
+    {
+      "id": "embu-guacu",
+      "nome": "Embu-Guaçu",
+      "status": "em_verificacao"
+    },
+    {
+      "id": "ferraz-de-vasconcelos",
+      "nome": "Ferraz de Vasconcelos",
+      "status": "em_verificacao"
+    },
+    {
+      "id": "francisco-morato",
+      "nome": "Francisco Morato",
+      "status": "em_verificacao"
+    },
+    {
+      "id": "franco-da-rocha",
+      "nome": "Franco da Rocha",
+      "status": "em_verificacao"
+    },
+    {
+      "id": "guararema",
+      "nome": "Guararema",
+      "status": "em_verificacao"
+    },
+    {
+      "id": "itapecerica-da-serra",
+      "nome": "Itapecerica da Serra",
+      "status": "em_verificacao"
+    },
+    {
+      "id": "itapevi",
+      "nome": "Itapevi",
+      "status": "em_verificacao"
+    },
+    {
+      "id": "itaquaquecetuba",
+      "nome": "Itaquaquecetuba",
+      "status": "em_verificacao"
+    },
+    {
+      "id": "jandira",
+      "nome": "Jandira",
+      "status": "em_verificacao"
+    },
+    {
+      "id": "juquitiba",
+      "nome": "Juquitiba",
+      "status": "em_verificacao"
+    },
+    {
+      "id": "mairipora",
+      "nome": "Mairiporã",
+      "status": "em_verificacao"
+    },
+    {
+      "id": "mogi-das-cruzes",
+      "nome": "Mogi das Cruzes",
+      "status": "conferido",
+      "orgao": "Secretaria Municipal de Meio Ambiente e Proteção Animal",
+      "programa": "Castração com microchipagem",
+      "quem": [
+        "Moradores de Mogi das Cruzes maiores de 18 anos, com comprovante de residência na cidade."
+      ],
+      "passos": [
+        "Faça o pré-agendamento pelo aplicativo Colab, na opção \"outros serviços\".",
+        "Se não puder usar o aplicativo, vá ao PAC Braz Cubas ou ao Mogifácil Biritiba Ussu.",
+        "Espere a confirmação da data."
+      ],
+      "documentos": [
+        "Documento pessoal com foto",
+        "Comprovante de endereço no seu nome ou cartão SIS",
+        "Comprovante de vacinação do animal"
+      ],
+      "contatos": [
+        {
+          "rotulo": "Telefone",
+          "valor": "(11) 4798-8585",
+          "href": "tel:+551147988585"
+        },
+        {
+          "rotulo": "WhatsApp",
+          "valor": "(11) 94304-7596",
+          "href": "https://wa.me/5511943047596"
+        },
+        {
+          "rotulo": "E-mail",
+          "valor": "cadastros.castracao@mogidascruzes.sp.gov.br",
+          "href": "mailto:cadastros.castracao@mogidascruzes.sp.gov.br"
+        }
+      ],
+      "observacoes": [
+        "A cidade também faz mutirões itinerantes voltados a famílias inscritas no CadÚnico, com inscrição presencial em datas divulgadas pela Prefeitura.",
+        "A Prefeitura vem mudando o sistema de agendamento. Se o aplicativo não mostrar a opção, confirme pelo telefone."
+      ],
+      "fontes": [
+        {
+          "titulo": "Prefeitura de Mogi das Cruzes: Castração com Microchipagem",
+          "url": "https://www.mogidascruzes.sp.gov.br/servico/animais/castracao-com-microchipagem"
+        }
+      ],
+      "conferido_em": "2026-11-16"
+    },
+    {
+      "id": "osasco",
+      "nome": "Osasco",
+      "status": "em_verificacao"
+    },
+    {
+      "id": "pirapora-do-bom-jesus",
+      "nome": "Pirapora do Bom Jesus",
+      "status": "em_verificacao"
+    },
+    {
+      "id": "poa",
+      "nome": "Poá",
+      "status": "em_verificacao"
+    },
+    {
+      "id": "rio-grande-da-serra",
+      "nome": "Rio Grande da Serra",
+      "status": "em_verificacao"
+    },
+    {
+      "id": "salesopolis",
+      "nome": "Salesópolis",
+      "status": "em_verificacao"
+    },
+    {
+      "id": "santa-isabel",
+      "nome": "Santa Isabel",
+      "status": "em_verificacao"
+    },
+    {
+      "id": "santana-de-parnaiba",
+      "nome": "Santana de Parnaíba",
+      "status": "em_verificacao"
+    },
+    {
+      "id": "sao-caetano-do-sul",
+      "nome": "São Caetano do Sul",
+      "status": "conferido",
+      "orgao": "Saúde e Bem-Estar Animal, Secretaria de Saúde",
+      "programa": "Programa municipal de castração",
+      "quem": [
+        "Moradores de São Caetano do Sul.",
+        "O programa é destinado a animais resgatados, de rua, comunitários, de protetores independentes, adotados em feiras de adoção e de famílias de baixa renda cadastradas nos programas sociais da cidade."
+      ],
+      "passos": [
+        "Tire o RG Animal de São Caetano, pedido por mensagem de WhatsApp.",
+        "Preencha o formulário de solicitação de castração indicado na página da Prefeitura.",
+        "Espere o contato da equipe por WhatsApp ou e-mail. As cirurgias seguem a ordem do cadastro."
+      ],
+      "documentos": [
+        "RG Animal de São Caetano do Sul",
+        "Confirme com a equipe o que mais levar. A página oficial não traz a lista."
+      ],
+      "contatos": [
+        {
+          "rotulo": "Formulário de castração",
+          "valor": "forms.gle/LhvujRDVjGwvkhc29",
+          "href": "https://forms.gle/LhvujRDVjGwvkhc29"
+        },
+        {
+          "rotulo": "RG Animal (WhatsApp)",
+          "valor": "(11) 4223-5452",
+          "href": "https://wa.me/551142235452"
+        },
+        {
+          "rotulo": "E-mail",
+          "valor": "saudeanimal@saocaetanodosul.sp.gov.br",
+          "href": "mailto:saudeanimal@saocaetanodosul.sp.gov.br"
+        }
+      ],
+      "observacoes": [
+        "Não adianta marcar consulta na unidade de saúde animal para pedir castração. O pedido é só pelo formulário."
+      ],
+      "fontes": [
+        {
+          "titulo": "Prefeitura de São Caetano do Sul: Informações sobre a castração",
+          "url": "https://www.saocaetanodosul.sp.gov.br/paginasweb/38"
+        },
+        {
+          "titulo": "Prefeitura de São Caetano do Sul: agendamento de saúde animal",
+          "url": "https://portais.saocaetanodosul.sp.gov.br/agendamento-saude-animal"
+        }
+      ],
+      "conferido_em": "2026-11-16"
+    },
+    {
+      "id": "sao-lourenco-da-serra",
+      "nome": "São Lourenço da Serra",
+      "status": "em_verificacao"
+    },
+    {
+      "id": "suzano",
+      "nome": "Suzano",
+      "status": "conferido",
+      "orgao": "Secretaria Municipal de Meio Ambiente",
+      "programa": "Mutirões de castração e microchipagem",
+      "quem": [
+        "Moradores de Suzano.",
+        "Animais com quatro meses de vida ou mais."
+      ],
+      "passos": [
+        "Faça o cadastro gratuito pelo link da página de Castração Animal da Prefeitura.",
+        "Se preferir, cadastre-se pessoalmente na Secretaria de Meio Ambiente.",
+        "Espere ser convocado para um dos mutirões."
+      ],
+      "documentos": [
+        "Confirme no cadastro o que levar. A página oficial não traz a lista."
+      ],
+      "contatos": [
+        {
+          "rotulo": "Cadastro pela internet",
+          "valor": "Página de Castração Animal",
+          "href": "https://suzano.sp.gov.br/meio-ambiente/castracao-animal/"
+        },
+        {
+          "rotulo": "Presencial",
+          "valor": "Centrus, Av. Paulo Portela, 210, sala 206",
+          "href": "https://www.google.com/maps/search/?api=1&query=Av+Paulo+Portela+210+Suzano"
+        }
+      ],
+      "observacoes": [
+        "O veterinário pode cancelar a cirurgia no dia se avaliar que há risco para o animal."
+      ],
+      "fontes": [
+        {
+          "titulo": "Prefeitura de Suzano: Castração Animal",
+          "url": "https://suzano.sp.gov.br/meio-ambiente/castracao-animal/"
+        }
+      ],
+      "conferido_em": "2026-11-16"
+    },
+    {
+      "id": "taboao-da-serra",
+      "nome": "Taboão da Serra",
+      "status": "conferido",
+      "orgao": "Bem-Estar Animal, Secretaria de Meio Ambiente, e Centro de Controle de Zoonoses",
+      "programa": "Castração no Seu Bairro",
+      "quem": [
+        "Moradores de Taboão da Serra."
+      ],
+      "passos": [
+        "Acompanhe o site da Prefeitura para saber em que bairro será a próxima edição e onde fica o ponto de cadastro.",
+        "Faça o cadastro no ponto indicado, com os documentos e os dados do animal (nome, espécie, idade e sexo).",
+        "Leve o animal na data agendada."
+      ],
+      "documentos": [
+        "RG ou outro documento oficial com foto",
+        "Comprovante de residência em Taboão da Serra"
+      ],
+      "contatos": [
+        {
+          "rotulo": "Centro de Controle de Zoonoses",
+          "valor": "Rua Victor Campisi, 250",
+          "href": "https://www.google.com/maps/search/?api=1&query=Rua+Victor+Campisi+250+Tabo%C3%A3o+da+Serra"
+        },
+        {
+          "rotulo": "Notícias da Prefeitura",
+          "valor": "ts.sp.gov.br",
+          "href": "https://www.ts.sp.gov.br/portal/noticias/3/2/0/0/0/0"
+        }
+      ],
+      "observacoes": [
+        "Algumas edições aceitam inscrição pela internet e pedem o RG Animal do SinPatinhas. Vale fazer o cadastro com antecedência."
+      ],
+      "fontes": [
+        {
+          "titulo": "Prefeitura de Taboão da Serra: projeto Castração no Seu Bairro",
+          "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1415/secretaria-de-meio-ambiente-divulga-o-projeto-castracao-no-seu-bairro"
+        },
+        {
+          "titulo": "Prefeitura de Taboão da Serra: edição de março de 2026",
+          "url": "https://www.ts.sp.gov.br/portal/noticias/0/3/1430/castracao-no-seu-bairro-acontecera-no-ginasio-ze-do-feijao-em-marco-de-2026"
+        }
+      ],
+      "conferido_em": "2026-11-16"
+    },
+    {
+      "id": "vargem-grande-paulista",
+      "nome": "Vargem Grande Paulista",
+      "status": "em_verificacao"
+    }
   ]
 }

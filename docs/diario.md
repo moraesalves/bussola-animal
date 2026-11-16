@@ -36,7 +36,14 @@ O problema da castração gratuita não é geográfico, é de burocracia. Há tr
 - **Visual:** bússola ilustrada com agulha de patinha que aponta para o destino escolhido, cão caramelo e gato preto desenhados em SVG, fontes abertas servidas do próprio site para não depender de terceiros.
 - **Testes:** navegador automatizado em tela de computador e de celular: busca com sugestões, ficha conferida, ficha em verificação, cidade fora da lista. Sem erros no console e sem rolagem lateral.
 
+### Segundo lote de fichas
+
+- Conferidas mais sete cidades: São Caetano do Sul, Barueri, Carapicuíba, Cotia, Taboão da Serra, Suzano e Mogi das Cruzes. Total: 13 de 39.
+- **Três modelos de atendimento apareceram:** fila permanente (capital, Santo André, Mauá, Mogi), cadastro para convocação (Suzano, São Caetano) e mutirão com inscrição em data marcada (Barueri, Carapicuíba, Cotia, Taboão). No terceiro modelo a ficha ensina a acompanhar a abertura, já que não registramos datas.
+- **Ficaram de fora:** Diadema (a página oficial de castração ainda é a do programa de 2022), Itaquaquecetuba (o site só fala de adoção e vacinação) e Osasco (a carta de serviços cita a castração, mas sem dizer como pedir; as notícias que explicam são de 2022 e 2023).
+- **Cuidado tomado:** critérios de idade e peso só entraram quando vinham de página de 2026, e a ficha diz o ano.
+
 ### Pendências
 
-- Conferir as 33 cidades restantes.
+- Conferir as 26 cidades restantes.
 - Módulos Denuncie Certo e Primeiros 90 Dias.
