@@ -156,6 +156,16 @@
       "Cadastre seu animal no SinPatinhas, o RG Animal gratuito do governo federal. Muitas cidades pedem esse cadastro."
     ], "passos", true));
 
+    if (m.pista) {
+      var pista = el("section", "aviso pista");
+      pista.appendChild(el("h4", null, "O que já achamos"));
+      pista.appendChild(el("p", null, m.pista.texto));
+      var linkPista = el("a", null, m.pista.rotulo);
+      linkPista.href = m.pista.href; linkPista.target = "_blank"; linkPista.rel = "noopener";
+      pista.appendChild(linkPista);
+      corpo.appendChild(pista);
+    }
+
     var aviso = el("section", "aviso");
     aviso.appendChild(el("h4", null, "Vale saber"));
     var obs = el("ul", "marcados");

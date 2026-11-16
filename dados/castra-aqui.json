@@ -334,7 +334,12 @@
     {
       "id": "caieiras",
       "nome": "Caieiras",
-      "status": "em_verificacao"
+      "status": "em_verificacao",
+      "pista": {
+        "texto": "A Prefeitura indica o telefone (11) 4899-3710, o 156 e o e-mail zoonoses@caieiras.sp.gov.br para dúvidas e agendamentos de zoonoses. Não achamos página que explique a castração.",
+        "rotulo": "Prefeitura de Caieiras",
+        "href": "https://caieiras.sp.gov.br/resumaodaprefs/"
+      }
     },
     {
       "id": "cajamar",
@@ -431,12 +436,59 @@
     {
       "id": "diadema",
       "nome": "Diadema",
-      "status": "em_verificacao"
+      "status": "em_verificacao",
+      "pista": {
+        "texto": "A página oficial de castração ainda descreve o programa de 2022, que priorizava inscritos no CadÚnico. O contato publicado é o Centro de Controle de Zoonoses, (11) 4059-5892.",
+        "rotulo": "Adote Amor, Prefeitura de Diadema",
+        "href": "https://adoteamor.diadema.sp.gov.br/?page_id=2300"
+      }
     },
     {
       "id": "embu-das-artes",
       "nome": "Embu das Artes",
-      "status": "em_verificacao"
+      "status": "conferido",
+      "orgao": "Secretaria do Bem Estar Animal",
+      "programa": "Castramóvel de Embu das Artes",
+      "quem": [
+        "Moradores de Embu das Artes.",
+        "Na ação mais recente do Castramóvel, cães e gatos de 6 meses a 7 anos."
+      ],
+      "passos": [
+        "Crie ou acesse sua conta Gov.br.",
+        "Cadastre o animal no SinPatinhas, o RG Animal gratuito do governo federal.",
+        "Faça a inscrição pela internet seguindo a página do Castramóvel da Prefeitura.",
+        "Se tiver dificuldade com o cadastro pela internet, procure a equipe do Castramóvel no local de atendimento. Não precisa levar o animal para agendar."
+      ],
+      "documentos": [
+        "RG e CPF (original e cópia)",
+        "Comprovante de residência (original e cópia)"
+      ],
+      "contatos": [
+        {
+          "rotulo": "Como participar",
+          "valor": "Página do Castramóvel",
+          "href": "https://cidadeembudasartes.sp.gov.br/castramovel/"
+        },
+        {
+          "rotulo": "RG Animal",
+          "valor": "sinpatinhas.mma.gov.br",
+          "href": "https://sinpatinhas.mma.gov.br"
+        }
+      ],
+      "observacoes": [
+        "Em 2026 a cidade também recebeu a unidade móvel Estação Pet, com cadastro prévio do tutor e do animal. As datas saem no site da Prefeitura."
+      ],
+      "fontes": [
+        {
+          "titulo": "Prefeitura de Embu das Artes: Castramóvel, veja como participar",
+          "url": "https://cidadeembudasartes.sp.gov.br/castramovel/"
+        },
+        {
+          "titulo": "Prefeitura de Embu das Artes: Estação Pet (set/2026)",
+          "url": "https://cidadeembudasartes.sp.gov.br/estacao-pet-oferece-castracao-gratuita-para-caes-e-gatos/"
+        }
+      ],
+      "conferido_em": "2026-11-16"
     },
     {
       "id": "embu-guacu",
@@ -446,7 +498,48 @@
     {
       "id": "ferraz-de-vasconcelos",
       "nome": "Ferraz de Vasconcelos",
-      "status": "em_verificacao"
+      "status": "conferido",
+      "orgao": "Secretaria de Meio Ambiente, Verde e Proteção Animal",
+      "programa": "Programa municipal de castração gratuita",
+      "quem": [
+        "Moradores de Ferraz de Vasconcelos.",
+        "Só cães e gatos sem raça definida. Cada tutor pode inscrever mais de um animal."
+      ],
+      "passos": [
+        "Acompanhe o site da Prefeitura para saber quando abre a inscrição de cada mutirão.",
+        "Preencha o formulário de inscrição divulgado no site.",
+        "No dia da castração, leve os documentos para validar a inscrição."
+      ],
+      "documentos": [
+        "Documento oficial com foto",
+        "Comprovante de residência no nome do responsável"
+      ],
+      "contatos": [
+        {
+          "rotulo": "Notícias de Proteção Animal",
+          "valor": "Site da Prefeitura",
+          "href": "https://ferrazdevasconcelos.sp.gov.br/web/categoria/meio-ambiente-e-protecao-animal/"
+        },
+        {
+          "rotulo": "Presencial",
+          "valor": "Paço Municipal, Rua Pedro Foschini, 200, Vila Romanópolis",
+          "href": "https://www.google.com/maps/search/?api=1&query=Rua+Pedro+Foschini+200+Ferraz+de+Vasconcelos"
+        }
+      ],
+      "observacoes": [
+        "Em 2026 a inscrição passou a ser pela internet. Em algumas edições também houve inscrição presencial ou senha por ordem de chegada, então leia a notícia de cada mutirão."
+      ],
+      "fontes": [
+        {
+          "titulo": "Prefeitura de Ferraz: inscrições on-line em 2026",
+          "url": "https://ferrazdevasconcelos.sp.gov.br/web/meio-ambiente-e-protecao-animal/prefeitura-de-ferraz-facilita-acesso-a-castracao-gratuita-com-inscricoes-on-line-em-2026/"
+        },
+        {
+          "titulo": "Prefeitura de Ferraz: mutirão de setembro de 2026",
+          "url": "https://ferrazdevasconcelos.sp.gov.br/web/meio-ambiente-e-protecao-animal/prefeitura-realiza-nova-edicao-do-mutirao-de-castracao-de-caes-e-gatos/"
+        }
+      ],
+      "conferido_em": "2026-11-16"
     },
     {
       "id": "francisco-morato",
@@ -456,7 +549,12 @@
     {
       "id": "franco-da-rocha",
       "nome": "Franco da Rocha",
-      "status": "em_verificacao"
+      "status": "em_verificacao",
+      "pista": {
+        "texto": "A Prefeitura mantém o CastraPet, um site de cadastro para castração gratuita. Não conseguimos confirmar se ele está recebendo pedidos em 2026.",
+        "rotulo": "CastraPet",
+        "href": "https://castracao.francodarocha.sp.gov.br/"
+      }
     },
     {
       "id": "guararema",
@@ -466,12 +564,86 @@
     {
       "id": "itapecerica-da-serra",
       "nome": "Itapecerica da Serra",
-      "status": "em_verificacao"
+      "status": "conferido",
+      "orgao": "Centro de Controle de Zoonoses, Autarquia Municipal de Saúde",
+      "programa": "Campanha de Castração e Microchipagem",
+      "quem": [
+        "Moradores de Itapecerica da Serra."
+      ],
+      "passos": [
+        "Acompanhe o site e as redes sociais da Prefeitura: cada etapa da campanha abre um cadastro novo.",
+        "Cadastre o animal no SinPatinhas, exigido na campanha de janeiro de 2026.",
+        "Faça o agendamento no link indicado na notícia da etapa. Só é atendido quem está cadastrado e agendado.",
+        "Leve o animal no dia marcado. Se não puder ir, avise: as faltas atrasam o cronograma."
+      ],
+      "documentos": [
+        "Confirme no agendamento o que levar. As páginas oficiais não trazem a lista."
+      ],
+      "contatos": [
+        {
+          "rotulo": "Notícias da Prefeitura",
+          "valor": "itapecerica.sp.gov.br",
+          "href": "https://www.itapecerica.sp.gov.br"
+        },
+        {
+          "rotulo": "RG Animal",
+          "valor": "sinpatinhas.mma.gov.br",
+          "href": "https://sinpatinhas.mma.gov.br"
+        }
+      ],
+      "observacoes": [
+        "As cirurgias são feitas no Castramóvel, que muda de bairro a cada etapa."
+      ],
+      "fontes": [
+        {
+          "titulo": "Prefeitura de Itapecerica da Serra: castração gratuita em janeiro de 2026",
+          "url": "https://www.itapecerica.sp.gov.br/noticias/governo-ciencia-e-tecnologia/inscricoes-abertas-itapecerica-da-serra-oferece-castracao-gratuita-de-caes-e-gatos-em-janeiro"
+        }
+      ],
+      "conferido_em": "2026-11-16"
     },
     {
       "id": "itapevi",
       "nome": "Itapevi",
-      "status": "em_verificacao"
+      "status": "conferido",
+      "orgao": "Secretaria de Meio Ambiente e Defesa dos Animais",
+      "programa": "Campanha de Castração Gratuita (Castramóvel)",
+      "quem": [
+        "Moradores de Itapevi.",
+        "Na campanha mais recente publicada, até dois animais por CPF, sem restrição de raça ou peso."
+      ],
+      "passos": [
+        "Acompanhe o site da Prefeitura: as inscrições abrem por campanha, com prazo para terminar.",
+        "Inscreva-se pelo site de castração da Prefeitura.",
+        "Espere o contato por e-mail e assine o Termo de Consentimento Cirúrgico. Sem ele a cirurgia não é agendada.",
+        "Leve o animal ao Castramóvel na data marcada."
+      ],
+      "documentos": [
+        "RG e CPF",
+        "Comprovante de residência em Itapevi"
+      ],
+      "contatos": [
+        {
+          "rotulo": "Inscrição pela internet",
+          "valor": "castracao.itapevi.sp.gov.br",
+          "href": "https://castracao.itapevi.sp.gov.br"
+        },
+        {
+          "rotulo": "Secretaria",
+          "valor": "Rua Heloisa Hideko Koba, 21, Vila Nova Itapevi",
+          "href": "https://www.google.com/maps/search/?api=1&query=Rua+Heloisa+Hideko+Koba+21+Itapevi"
+        }
+      ],
+      "observacoes": [
+        "A notícia oficial mais recente que encontramos é de julho de 2025. O site de inscrição é o mesmo desde 2020, mas confirme se há campanha aberta."
+      ],
+      "fontes": [
+        {
+          "titulo": "Prefeitura de Itapevi: inscrições da Campanha de Castração (jul/2025)",
+          "url": "https://noticias.itapevi.sp.gov.br/prefeitura-de-itapevi-abre-inscricoes-para-campanha-de-castracao-gratuita-de-caes-e-gatos/"
+        }
+      ],
+      "conferido_em": "2026-11-16"
     },
     {
       "id": "itaquaquecetuba",
@@ -481,7 +653,38 @@
     {
       "id": "jandira",
       "nome": "Jandira",
-      "status": "em_verificacao"
+      "status": "conferido",
+      "orgao": "Prefeitura de Jandira (Secretaria de Meio Ambiente)",
+      "programa": "Campanhas de castração gratuita",
+      "quem": [
+        "Moradores de Jandira.",
+        "Nas últimas campanhas, até dois animais por residência."
+      ],
+      "passos": [
+        "Acompanhe o portal da Prefeitura: as inscrições abrem por campanha e as vagas são limitadas.",
+        "Faça a inscrição pela internet no link divulgado na notícia da campanha.",
+        "Leve o animal no dia e local informados."
+      ],
+      "documentos": [
+        "Confirme na inscrição o que levar. Nas edições presenciais eram pedidos RG, CPF e comprovante de endereço."
+      ],
+      "contatos": [
+        {
+          "rotulo": "Portal da Prefeitura",
+          "valor": "portal.jandira.sp.gov.br",
+          "href": "https://portal.jandira.sp.gov.br"
+        }
+      ],
+      "observacoes": [
+        "Não há fila permanente publicada. A castração acontece em campanhas, como o Pet Day da Castração de agosto de 2026."
+      ],
+      "fontes": [
+        {
+          "titulo": "Prefeitura de Jandira: Pet Day da Castração (ago/2026)",
+          "url": "https://portal.jandira.sp.gov.br/noticias-separada/174"
+        }
+      ],
+      "conferido_em": "2026-11-16"
     },
     {
       "id": "juquitiba",
@@ -544,7 +747,12 @@
     {
       "id": "osasco",
       "nome": "Osasco",
-      "status": "em_verificacao"
+      "status": "em_verificacao",
+      "pista": {
+        "texto": "A carta de serviços da Prefeitura lista \"Castração de Animais\", mas sem dizer como pedir. Até 2023 o agendamento era pela Central 156. Confirme pelo 156.",
+        "rotulo": "Carta de serviços de Osasco",
+        "href": "https://osascodigital.osasco.sp.gov.br/carta-servicos"
+      }
     },
     {
       "id": "pirapora-do-bom-jesus",
@@ -554,7 +762,12 @@
     {
       "id": "poa",
       "nome": "Poá",
-      "status": "em_verificacao"
+      "status": "em_verificacao",
+      "pista": {
+        "texto": "Em 2024 a Prefeitura anunciou inscrição permanente para famílias de baixa renda no Cebeap (Rua São Manoel, 361, Vila Amélia). Em 2026 só encontramos mutirões com inscrição pela internet. Confirme no Cebeap.",
+        "rotulo": "Notícias da Prefeitura de Poá",
+        "href": "https://poa.sp.gov.br"
+      }
     },
     {
       "id": "rio-grande-da-serra",
@@ -574,7 +787,43 @@
     {
       "id": "santana-de-parnaiba",
       "nome": "Santana de Parnaíba",
-      "status": "em_verificacao"
+      "status": "conferido",
+      "orgao": "Departamento de Proteção e Bem-estar Animal",
+      "programa": "Eventos de castração com inscrição pelo SisPet",
+      "quem": [
+        "Moradores homologados no cadastro municipal de Santana de Parnaíba."
+      ],
+      "passos": [
+        "Confirme que você está homologado no cadastro do município. Sem isso a inscrição não é aceita.",
+        "Entre no SisPet e veja se há evento de castração aberto.",
+        "Registre seu interesse no evento. O pedido passa por avaliação técnica.",
+        "Espere o e-mail dizendo se a inscrição foi confirmada."
+      ],
+      "documentos": [
+        "Confirme no e-mail de confirmação o que levar. O sistema não traz a lista."
+      ],
+      "contatos": [
+        {
+          "rotulo": "Cadastro de interesse",
+          "valor": "SisPet",
+          "href": "https://intranet.santanadeparnaiba.sp.gov.br/SisPet/Publico/EventoInscricao/GridEventoInscricao.aspx"
+        },
+        {
+          "rotulo": "Serviços da Prefeitura",
+          "valor": "Plataforma de Serviços ao Cidadão",
+          "href": "https://prefeitura.santanadeparnaiba.sp.gov.br/Plataforma/busca"
+        }
+      ],
+      "observacoes": [
+        "Quando não há evento aberto, o SisPet avisa que não há eventos disponíveis. Volte a consultar de tempos em tempos."
+      ],
+      "fontes": [
+        {
+          "titulo": "Prefeitura de Santana de Parnaíba: SisPet, cadastro de interesse de castração",
+          "url": "https://intranet.santanadeparnaiba.sp.gov.br/SisPet/Publico/EventoInscricao/GridEventoInscricao.aspx"
+        }
+      ],
+      "conferido_em": "2026-11-16"
     },
     {
       "id": "sao-caetano-do-sul",

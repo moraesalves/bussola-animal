@@ -43,7 +43,15 @@ O problema da castração gratuita não é geográfico, é de burocracia. Há tr
 - **Ficaram de fora:** Diadema (a página oficial de castração ainda é a do programa de 2022), Itaquaquecetuba (o site só fala de adoção e vacinação) e Osasco (a carta de serviços cita a castração, mas sem dizer como pedir; as notícias que explicam são de 2022 e 2023).
 - **Cuidado tomado:** critérios de idade e peso só entraram quando vinham de página de 2026, e a ficha diz o ano.
 
+### Terceiro lote de fichas
+
+- Conferidas mais seis cidades: Itapevi, Embu das Artes, Santana de Parnaíba, Itapecerica da Serra, Ferraz de Vasconcelos e Jandira. Total: 19 de 39.
+- **Nova ideia que saiu do problema:** em cinco cidades achamos informação oficial, mas velha ou incompleta (Franco da Rocha, Poá, Caieiras, Osasco e Diadema). Em vez de escolher entre publicar como certo ou esconder, criamos o campo "pista": a ficha continua "em verificação", mas mostra o que já foi achado, com o aviso de que falta confirmar.
+- **Particularidades:** Santana de Parnaíba exige que o morador esteja "homologado" no cadastro municipal; Ferraz só atende animais sem raça definida; Embu das Artes e Itapecerica pedem o SinPatinhas.
+- **Sem resultado:** o site de Francisco Morato só trata de vacinação antirrábica.
+- **Limite assumido:** a fonte mais recente de Itapevi é de julho de 2025, e a ficha diz isso.
+
 ### Pendências
 
-- Conferir as 26 cidades restantes.
+- Conferir as 20 cidades restantes, a maioria pequenas.
 - Módulos Denuncie Certo e Primeiros 90 Dias.

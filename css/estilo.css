@@ -172,6 +172,8 @@ button:active, .botao:active { transform: translate(4px, 4px); box-shadow: 2px 2
 .contatos .rotulo { font-weight: 700; }
 .contatos a { font-weight: 700; color: #0E4F66; text-underline-offset: 3px; overflow-wrap: anywhere; }
 .aviso { background: var(--papel); border: 2px dashed var(--tinta); border-radius: 1rem; padding: 1rem 1.1rem; }
+.pista { background: #FFF3C4; border-style: solid; }
+.pista a { display: inline-block; margin-top: .5rem; font-weight: 700; color: #0E4F66; }
 .ficha-pe {
   padding: 1rem clamp(1.1rem, 3vw, 2rem); background: var(--papel); border-top: var(--borda);
   display: flex; flex-wrap: wrap; gap: .5rem 1.25rem; align-items: center; font-size: .95rem;

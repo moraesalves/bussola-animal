@@ -17,6 +17,7 @@ Uma entrada por município, dentro de `municipios`.
 | `contatos` | lista de `{rotulo, valor, href}` |
 | `observacoes` | avisos úteis |
 | `fontes` | lista de `{titulo, url}`, sempre páginas oficiais |
+| `pista` | só em cidades em verificação: `{texto, rotulo, href}` com o que já foi achado, ainda sem confirmação |
 | `conferido_em` | data da última verificação (AAAA-MM-DD) |
 
 Regras: só entra o que estiver em página oficial; datas de mutirão não entram; quando a fonte não informa algo, a ficha diz isso em vez de supor.
