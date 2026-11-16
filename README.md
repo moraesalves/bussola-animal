@@ -2,7 +2,7 @@
 
 Um guia gratuito e aberto que orienta quem quer ajudar cães e gatos até o caminho certo: onde castrar de graça, como denunciar maus-tratos e como atravessar os primeiros meses depois de uma adoção.
 
-> **Situação:** o módulo Castra Aqui está no ar com as 39 cidades da capital e Região Metropolitana de São Paulo. Dezenove têm ficha completa conferida na fonte oficial; as demais mostram o caminho geral enquanto são verificadas.
+> **Situação:** o módulo Castra Aqui está no ar com as 39 cidades da capital e Região Metropolitana de São Paulo. Vinte e três têm ficha completa conferida na fonte oficial. As outras dezesseis mostram o caminho geral e, quando existe, a pista do que já foi encontrado.
 
 **Site:** https://moraesalves.github.io/bussola-animal/
 
@@ -16,7 +16,7 @@ A Bússola Animal não cria serviço novo. Ela junta o que já existe, confere n
 
 | Módulo | O que faz | Situação |
 |---|---|---|
-| **Castra Aqui** | Você informa a cidade e recebe uma ficha: quais programas de castração gratuita chegam ali, onde se inscrever, documentos exigidos e quem tem prioridade. | No ar (19 de 39 cidades conferidas) |
+| **Castra Aqui** | Você informa a cidade e recebe uma ficha: quais programas de castração gratuita chegam ali, onde se inscrever, documentos exigidos e quem tem prioridade. | No ar (23 de 39 cidades conferidas) |
 | **Denuncie Certo** | Guia por estado de onde denunciar maus-tratos, que provas reunir e como descrever o caso. | Planejado |
 | **Primeiros 90 Dias** | Guia para quem acabou de adotar: adaptação semana a semana e o que fazer antes de desistir. | Planejado |
 

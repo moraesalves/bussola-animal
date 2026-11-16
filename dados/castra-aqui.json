@@ -282,7 +282,12 @@
     {
       "id": "aruja",
       "nome": "Arujá",
-      "status": "em_verificacao"
+      "status": "em_verificacao",
+      "pista": {
+        "texto": "A Prefeitura tem um formulário de cadastro de castração na internet. A página antiga da zoonoses pede RG, CPF, comprovante de residência e carteira de vacinação do animal, e manda confirmar no setor o período de cadastro.",
+        "rotulo": "Formulário de castração de Arujá",
+        "href": "https://www.prefeituradearuja.sp.gov.br/projeto/cadcastracao/cadCastracaoForm.php"
+      }
     },
     {
       "id": "barueri",
@@ -329,7 +334,12 @@
     {
       "id": "biritiba-mirim",
       "nome": "Biritiba-Mirim",
-      "status": "em_verificacao"
+      "status": "em_verificacao",
+      "pista": {
+        "texto": "A última campanha de castração que achamos no site da Prefeitura é de setembro de 2023.",
+        "rotulo": "Prefeitura de Biritiba Mirim",
+        "href": "https://www.biritibamirim.sp.gov.br"
+      }
     },
     {
       "id": "caieiras",
@@ -344,7 +354,12 @@
     {
       "id": "cajamar",
       "nome": "Cajamar",
-      "status": "em_verificacao"
+      "status": "em_verificacao",
+      "pista": {
+        "texto": "O programa Saúde Animal oferece castração com cadastro prévio, e o projeto Castração nos Bairros levou mutirões aos bairros. As páginas oficiais que achamos são de 2020 a 2023.",
+        "rotulo": "Prefeitura de Cajamar: Saúde Animal",
+        "href": "https://cajamar.sp.gov.br/saude-animal/"
+      }
     },
     {
       "id": "carapicuiba",
@@ -438,7 +453,7 @@
       "nome": "Diadema",
       "status": "em_verificacao",
       "pista": {
-        "texto": "A página oficial de castração ainda descreve o programa de 2022, que priorizava inscritos no CadÚnico. O contato publicado é o Centro de Controle de Zoonoses, (11) 4059-5892.",
+        "texto": "As páginas oficiais de castração descrevem os programas de 2022 e 2023, que priorizavam inscritos no CadÚnico. O contato publicado é o Centro de Controle de Zoonoses, (11) 4059-5892.",
         "rotulo": "Adote Amor, Prefeitura de Diadema",
         "href": "https://adoteamor.diadema.sp.gov.br/?page_id=2300"
       }
@@ -544,22 +559,96 @@
     {
       "id": "francisco-morato",
       "nome": "Francisco Morato",
-      "status": "em_verificacao"
+      "status": "em_verificacao",
+      "pista": {
+        "texto": "O site da saúde só fala de vacinação contra a raiva. Quem cuida de cães e gatos é a Unidade de Vigilância de Zoonoses, na Rua Avaré, 152, Parque Paulista. Pergunte lá sobre castração.",
+        "rotulo": "Saúde de Francisco Morato",
+        "href": "https://saude.franciscomorato.sp.gov.br/site/index/emergencia/"
+      }
     },
     {
       "id": "franco-da-rocha",
       "nome": "Franco da Rocha",
-      "status": "em_verificacao",
-      "pista": {
-        "texto": "A Prefeitura mantém o CastraPet, um site de cadastro para castração gratuita. Não conseguimos confirmar se ele está recebendo pedidos em 2026.",
-        "rotulo": "CastraPet",
-        "href": "https://castracao.francodarocha.sp.gov.br/"
-      }
+      "status": "conferido",
+      "orgao": "Diretoria de Bem-Estar Animal, Secretaria Municipal da Saúde",
+      "programa": "CastraPet",
+      "quem": [
+        "Moradores de Franco da Rocha com 18 anos ou mais.",
+        "Cães e gatos de 3 meses a 8 anos."
+      ],
+      "passos": [
+        "Entre no site CastraPet e crie sua conta.",
+        "Cadastre o animal e anexe a foto dele e do comprovante de endereço.",
+        "Espere o contato da clínica veterinária, por telefone, perto da data. A chamada segue critérios de prioridade, não a ordem de inscrição."
+      ],
+      "documentos": [
+        "Comprovante de endereço no seu nome, dos últimos 90 dias (foto)",
+        "Foto do animal"
+      ],
+      "contatos": [
+        {
+          "rotulo": "Cadastro pela internet",
+          "valor": "castracao.francodarocha.sp.gov.br",
+          "href": "https://castracao.francodarocha.sp.gov.br/"
+        }
+      ],
+      "observacoes": [
+        "Mantenha o telefone atualizado: a clínica tenta o contato três vezes.",
+        "O site do CastraPet não mostra data de atualização. A castração gratuita segue na lista de serviços da Prefeitura, mas vale confirmar se há fila aberta."
+      ],
+      "fontes": [
+        {
+          "titulo": "Prefeitura de Franco da Rocha: CastraPet",
+          "url": "https://castracao.francodarocha.sp.gov.br/"
+        },
+        {
+          "titulo": "Prefeitura de Franco da Rocha: serviços",
+          "url": "https://www.francodarocha.sp.gov.br/servicos/"
+        }
+      ],
+      "conferido_em": "2026-11-16"
     },
     {
       "id": "guararema",
       "nome": "Guararema",
-      "status": "em_verificacao"
+      "status": "conferido",
+      "orgao": "Secretaria Municipal de Obras, Meio Ambiente e Bem-Estar Animal",
+      "programa": "Programa Bora Ser Feliz",
+      "quem": [
+        "Moradores de Guararema.",
+        "Cães com menos de 3 meses e gatos com menos de 2 kg ficam na fila até atingirem o tamanho ideal."
+      ],
+      "passos": [
+        "Entre no site do programa Bora Ser Feliz e abra o cadastro de castração.",
+        "Assista ao vídeo de orientação até o fim. O formulário só aparece depois.",
+        "Preencha o cadastro e espere a confirmação da data da cirurgia.",
+        "Leve o animal em jejum de 12 horas, limpo e sem pulgas ou carrapatos."
+      ],
+      "documentos": [
+        "Confirme na mensagem de agendamento o que levar. O site não traz a lista de documentos."
+      ],
+      "contatos": [
+        {
+          "rotulo": "Cadastro pela internet",
+          "valor": "boraserfeliz.guararema.sp.gov.br",
+          "href": "https://boraserfeliz.guararema.sp.gov.br/index.php/cadastro-2/"
+        }
+      ],
+      "observacoes": [
+        "O mesmo cadastro vale para o Castramóvel da cidade e para os mutirões do programa estadual Pro Pet SP.",
+        "Cadelas no cio e animais com pulgas ou carrapatos não são operados."
+      ],
+      "fontes": [
+        {
+          "titulo": "Prefeitura de Guararema: cadastro de castração do Bora Ser Feliz",
+          "url": "https://boraserfeliz.guararema.sp.gov.br/index.php/cadastro-2/"
+        },
+        {
+          "titulo": "Prefeitura de Guararema: Pro Pet SP (jan/2026)",
+          "url": "https://www.guararema.sp.gov.br/noticias/meio-ambiente/guararema-recebe-acao-de-castracao-gratuita-de-caes-e-gatos-pelo-programa-pro-pet-sp-do-governo-do-estado"
+        }
+      ],
+      "conferido_em": "2026-11-16"
     },
     {
       "id": "itapecerica-da-serra",
@@ -648,7 +737,12 @@
     {
       "id": "itaquaquecetuba",
       "nome": "Itaquaquecetuba",
-      "status": "em_verificacao"
+      "status": "em_verificacao",
+      "pista": {
+        "texto": "Em abril de 2026 a Prefeitura fez um pré-cadastro para castração gratuita. Não conseguimos ler os detalhes. O Departamento de Bem-Estar Animal fica na Rua Senador Canedo, 550, Chácara Cuiabá, e atende de segunda a sexta, das 8h às 17h.",
+        "rotulo": "Prefeitura de Itaquaquecetuba",
+        "href": "https://www.itaquaquecetuba.sp.gov.br"
+      }
     },
     {
       "id": "jandira",
@@ -689,12 +783,73 @@
     {
       "id": "juquitiba",
       "nome": "Juquitiba",
-      "status": "em_verificacao"
+      "status": "em_verificacao",
+      "pista": {
+        "texto": "Em janeiro de 2026 a cidade recebeu um mutirão gratuito do programa estadual Pro Pet SP. A inscrição é feita com a prefeitura.",
+        "rotulo": "Governo do Estado: Pro Pet SP",
+        "href": "https://semil.sp.gov.br/?p=131721"
+      }
     },
     {
       "id": "mairipora",
       "nome": "Mairiporã",
-      "status": "em_verificacao"
+      "status": "conferido",
+      "orgao": "Causa Animal, Secretaria de Meio Ambiente",
+      "programa": "Castração pela Causa Animal",
+      "quem": [
+        "Moradores de Mairiporã.",
+        "Há critérios de baixa renda definidos em portaria de 2025. Confirme com a Causa Animal se você se enquadra.",
+        "Cães de 6 meses a 10 anos e gatos com pelo menos 1,2 kg."
+      ],
+      "passos": [
+        "Faça o cadastro Cidadão Pet do seu animal, usando o Cartão Cidadão. Ele dá acesso ao serviço de castração.",
+        "Procure a Causa Animal por WhatsApp, telefone ou e-mail e peça a castração.",
+        "Leve o animal no dia marcado, em jejum de 6 a 8 horas."
+      ],
+      "documentos": [
+        "Cartão Cidadão",
+        "Confirme com a Causa Animal os comprovantes exigidos."
+      ],
+      "contatos": [
+        {
+          "rotulo": "WhatsApp",
+          "valor": "(11) 4419-0065",
+          "href": "https://wa.me/551144190065"
+        },
+        {
+          "rotulo": "Telefone",
+          "valor": "(11) 4419-1004",
+          "href": "tel:+551144191004"
+        },
+        {
+          "rotulo": "E-mail",
+          "valor": "causaanimal@mairipora.sp.gov.br",
+          "href": "mailto:causaanimal@mairipora.sp.gov.br"
+        },
+        {
+          "rotulo": "Endereço",
+          "valor": "Alameda Tibiriçá, 535, Vila Nova",
+          "href": "https://www.google.com/maps/search/?api=1&query=Alameda+Tibiri%C3%A7%C3%A1+535+Mairipor%C3%A3"
+        }
+      ],
+      "observacoes": [
+        "O animal precisa estar saudável, com vacinas e vermífugo em dia. Se o veterinário notar algum problema, a cirurgia pode ser cancelada."
+      ],
+      "fontes": [
+        {
+          "titulo": "Prefeitura de Mairiporã: carta de serviços da Causa Animal",
+          "url": "https://www.mairipora.sp.gov.br/contato/ouvidoria/ouvidoria"
+        },
+        {
+          "titulo": "Prefeitura de Mairiporã: Secretaria de Meio Ambiente",
+          "url": "https://www.mairipora.sp.gov.br/secretarias/meio-ambiente"
+        },
+        {
+          "titulo": "Prefeitura de Mairiporã: cadastro Cidadão Pet",
+          "url": "https://www.mairipora.sp.gov.br/prefeitura-realiza-cadastro-cidadao-pet/"
+        }
+      ],
+      "conferido_em": "2026-11-16"
     },
     {
       "id": "mogi-das-cruzes",
@@ -757,7 +912,12 @@
     {
       "id": "pirapora-do-bom-jesus",
       "nome": "Pirapora do Bom Jesus",
-      "status": "em_verificacao"
+      "status": "em_verificacao",
+      "pista": {
+        "texto": "Não achamos página sobre castração. A Prefeitura contratou o serviço em 2023, e o setor que cuida de cães e gatos é a Vigilância Sanitária, no telefone (11) 4131-2143.",
+        "rotulo": "Prefeitura de Pirapora do Bom Jesus",
+        "href": "https://www.piraporadobomjesus.sp.gov.br/noticias"
+      }
     },
     {
       "id": "poa",
@@ -772,17 +932,63 @@
     {
       "id": "rio-grande-da-serra",
       "nome": "Rio Grande da Serra",
-      "status": "em_verificacao"
+      "status": "em_verificacao",
+      "pista": {
+        "texto": "A Prefeitura publicou inscrições para castração de animais de famílias de baixa renda, de segunda a sexta, das 9h às 16h, na Secretaria de Verde e Meio Ambiente (Av. Dom Pedro I, 10, Centro). A página não tem data.",
+        "rotulo": "Prefeitura de Rio Grande da Serra: Castração Animal",
+        "href": "http://www.riograndedaserra.sp.gov.br/noticia/castracao-animal/"
+      }
     },
     {
       "id": "salesopolis",
       "nome": "Salesópolis",
-      "status": "em_verificacao"
+      "status": "em_verificacao",
+      "pista": {
+        "texto": "Em janeiro de 2026 a cidade recebeu um mutirão gratuito do programa estadual Pro Pet SP. A inscrição é feita com a prefeitura.",
+        "rotulo": "Governo do Estado: Pro Pet SP",
+        "href": "https://semil.sp.gov.br/?p=131721"
+      }
     },
     {
       "id": "santa-isabel",
       "nome": "Santa Isabel",
-      "status": "em_verificacao"
+      "status": "conferido",
+      "orgao": "Departamento de Proteção e Bem-Estar Animal e Secretaria de Saúde",
+      "programa": "Campanha Municipal de Castração e Clínica Veterinária Municipal Patinha Feliz",
+      "quem": [
+        "Moradores de Santa Isabel.",
+        "A clínica municipal foi criada para atender a população de baixa renda."
+      ],
+      "passos": [
+        "Acompanhe o site e as redes sociais da Prefeitura para saber quando abre o cadastro da próxima campanha.",
+        "Preencha o formulário de inscrição com seus dados e os do animal.",
+        "Leve o animal ao Castramóvel no dia da campanha."
+      ],
+      "documentos": [
+        "Nome completo, CPF e telefone para o cadastro",
+        "Confirme no formulário o que levar no dia."
+      ],
+      "contatos": [
+        {
+          "rotulo": "Site da Prefeitura",
+          "valor": "site.santaisabel.sp.gov.br",
+          "href": "https://site.santaisabel.sp.gov.br/category/secretaria-de-saude/"
+        }
+      ],
+      "observacoes": [
+        "Fora das campanhas, a Clínica Veterinária Municipal Patinha Feliz também faz castrações. Ela funciona de segunda a sexta, das 8h às 17h. A página oficial não explica como agendar, então pergunte na Prefeitura."
+      ],
+      "fontes": [
+        {
+          "titulo": "Prefeitura de Santa Isabel: cadastro da Campanha Municipal de Castração (2026)",
+          "url": "https://site.santaisabel.sp.gov.br/prefeitura-abre-cadastro-para-campanha-municipal-de-castracao-de-caes-e-gatos/"
+        },
+        {
+          "titulo": "Prefeitura de Santa Isabel: Clínica Patinha Feliz",
+          "url": "https://site.santaisabel.sp.gov.br/patinha-feliz-realiza-mais-de-9-mil-procedimentos-gratuitos-em-santa-isabel/"
+        }
+      ],
+      "conferido_em": "2026-11-16"
     },
     {
       "id": "santana-de-parnaiba",
@@ -879,7 +1085,12 @@
     {
       "id": "sao-lourenco-da-serra",
       "nome": "São Lourenço da Serra",
-      "status": "em_verificacao"
+      "status": "em_verificacao",
+      "pista": {
+        "texto": "Não achamos página para o morador. A Prefeitura abriu licitação de castração com microchip em 2024, sinal de que o serviço existe. Ligue para a prefeitura.",
+        "rotulo": "Prefeitura de São Lourenço da Serra",
+        "href": "https://saolourencodaserra.sp.gov.br/novo/"
+      }
     },
     {
       "id": "suzano",
@@ -970,7 +1181,12 @@
     {
       "id": "vargem-grande-paulista",
       "nome": "Vargem Grande Paulista",
-      "status": "em_verificacao"
+      "status": "em_verificacao",
+      "pista": {
+        "texto": "As últimas inscrições que achamos são de 2019, feitas pela Secretaria de Saúde, com prioridade para famílias de baixa renda e animais resgatados por protetores.",
+        "rotulo": "Prefeitura de Vargem Grande Paulista",
+        "href": "https://www.vargemgrandepaulista.sp.gov.br/site/secretaria-de-saude-abre-inscricoes-para-castracao-de-caes-e-gatos/"
+      }
     }
   ]
 }

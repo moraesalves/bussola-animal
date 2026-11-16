@@ -51,7 +51,16 @@ O problema da castração gratuita não é geográfico, é de burocracia. Há tr
 - **Sem resultado:** o site de Francisco Morato só trata de vacinação antirrábica.
 - **Limite assumido:** a fonte mais recente de Itapevi é de julho de 2025, e a ficha diz isso.
 
+### Quarto lote: fechamento das 39
+
+- Pesquisadas todas as cidades que faltavam. Conferidas mais quatro: Guararema, Mairiporã, Santa Isabel e Franco da Rocha. Total final desta rodada: 23 de 39.
+- Das 16 que ficaram em verificação, 15 ganharam pista. Só Embu-Guaçu ficou sem nada: a busca no site da prefeitura não devolveu nenhuma página sobre castração.
+- **Padrão das cidades pequenas:** não têm programa próprio publicado e dependem dos mutirões do Estado (Pro Pet SP), com inscrição feita na prefeitura. É o caso de Juquitiba e Salesópolis.
+- **Por que não forçamos o número:** várias cidades têm páginas oficiais, só que antigas (Cajamar 2020 a 2023, Vargem Grande Paulista 2019, Diadema 2022 e 2023) ou sem data (Rio Grande da Serra). Publicar isso com selo de "conferida" trairia a regra do projeto. Viraram pistas.
+- **Segunda busca valeu a pena:** refazer a pesquisa de Franco da Rocha com outros termos trouxe as regras completas do CastraPet e a confirmação na lista de serviços da Prefeitura.
+- **Limite do método:** tudo foi feito por busca em páginas públicas. Para as 16 restantes, o caminho é ligar para a prefeitura ou contar com moradores.
+
 ### Pendências
 
-- Conferir as 20 cidades restantes, a maioria pequenas.
+- 16 cidades em verificação, à espera de confirmação por telefone ou de colaboração de moradores.
 - Módulos Denuncie Certo e Primeiros 90 Dias.
