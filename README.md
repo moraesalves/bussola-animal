@@ -2,7 +2,9 @@
 
 Um guia gratuito e aberto que orienta quem quer ajudar cães e gatos até o caminho certo: onde castrar de graça, como denunciar maus-tratos e como atravessar os primeiros meses depois de uma adoção.
 
-> **Situação:** projeto em construção. As primeiras fichas (capital paulista e Região Metropolitana de São Paulo) estão em levantamento.
+> **Situação:** o módulo Castra Aqui está no ar com as 39 cidades da capital e Região Metropolitana de São Paulo. Seis têm ficha completa conferida na fonte oficial (São Paulo, Guarulhos, Santo André, São Bernardo do Campo, Mauá e Ribeirão Pires); as demais mostram o caminho geral enquanto são verificadas.
+
+**Site:** https://moraesalves.github.io/bussola-animal/
 
 ## Por que existe
 
@@ -14,7 +16,7 @@ A Bússola Animal não cria serviço novo. Ela junta o que já existe, confere n
 
 | Módulo | O que faz | Situação |
 |---|---|---|
-| **Castra Aqui** | Você informa a cidade e recebe uma ficha: quais programas de castração gratuita chegam ali, onde se inscrever, documentos exigidos e quem tem prioridade. | Em levantamento |
+| **Castra Aqui** | Você informa a cidade e recebe uma ficha: quais programas de castração gratuita chegam ali, onde se inscrever, documentos exigidos e quem tem prioridade. | No ar (6 de 39 cidades conferidas) |
 | **Denuncie Certo** | Guia por estado de onde denunciar maus-tratos, que provas reunir e como descrever o caso. | Planejado |
 | **Primeiros 90 Dias** | Guia para quem acabou de adotar: adaptação semana a semana e o que fazer antes de desistir. | Planejado |
 
@@ -37,9 +39,10 @@ Não é preciso saber programar.
 ## Estrutura do repositório
 
 ```
-index.html        página inicial do site
-dados/            fichas em JSON, uma pasta por módulo
-docs/diario.md    diário do projeto: decisões, fontes e correções
+index.html              página do site
+css/ js/ img/ fontes/   visual, comportamento, ícone e fontes
+dados/castra-aqui.json  fichas de castração, uma por município
+docs/diario.md          diário do projeto: decisões, fontes e correções
 ```
 
 ## Aviso
@@ -49,4 +52,5 @@ A Bússola Animal é um projeto independente, sem vínculo com órgãos público
 ## Licença
 
 - Código: [MIT](LICENSE)
+- Fontes tipográficas: Baloo 2 e Atkinson Hyperlegible, ambas sob a licença aberta SIL OFL 1.1, servidas do próprio site.
 - Dados e textos: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt-br). Pode copiar e adaptar, citando a Bússola Animal.

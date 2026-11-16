@@ -3,18 +3,174 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Bússola Animal</title>
+  <title>Bússola Animal: o caminho certo para ajudar cães e gatos</title>
   <meta name="description" content="Guia gratuito e aberto: onde castrar de graça, como denunciar maus-tratos e como atravessar os primeiros meses depois de uma adoção.">
-  <style>
-    body { font-family: system-ui, sans-serif; max-width: 40rem; margin: 4rem auto; padding: 0 1.25rem; line-height: 1.6; color: #1f2933; }
-    h1 { margin-bottom: 0.25rem; }
-    p.sub { color: #52606d; margin-top: 0; }
-  </style>
+  <meta property="og:title" content="Bússola Animal">
+  <meta property="og:description" content="Ajudar um cão ou um gato começa por saber o caminho. A gente aponta.">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
+  <link rel="preload" href="fontes/baloo-2-latin-800-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="css/estilo.css">
 </head>
 <body>
-  <h1>Bússola Animal</h1>
-  <p class="sub">Em construção.</p>
-  <p>Um guia gratuito e aberto que orienta quem quer ajudar cães e gatos: onde castrar de graça, como denunciar maus-tratos e como atravessar os primeiros meses depois de uma adoção.</p>
-  <p>Acompanhe o projeto no <a href="https://github.com/moraesalves/bussola-animal">GitHub</a>.</p>
+  <a class="pular" href="#castra-aqui">Pular para a busca por cidade</a>
+
+  <header class="topo">
+    <a class="marca" href="#inicio" aria-label="Bússola Animal, início">
+      <svg viewBox="0 0 40 40" width="36" height="36" aria-hidden="true">
+        <circle cx="20" cy="20" r="18" fill="#FFC93C" stroke="#17324D" stroke-width="3"/>
+        <path d="M20 7 L25 20 L20 33 L15 20 Z" fill="#FF5D73" stroke="#17324D" stroke-width="2" stroke-linejoin="round"/>
+        <circle cx="20" cy="20" r="3" fill="#17324D"/>
+      </svg>
+      <span>Bússola Animal</span>
+    </a>
+    <nav aria-label="Seções">
+      <a href="#castra-aqui">Castra Aqui</a>
+      <a href="#em-breve">Em breve</a>
+      <a href="#sobre">Sobre</a>
+    </nav>
+  </header>
+
+  <main id="inicio">
+
+    <section class="abertura">
+      <div class="abertura-texto">
+        <h1>Quer ajudar um bicho e não sabe por onde ir?</h1>
+        <p class="lide">A informação existe, mas está espalhada em dezenas de sites. A Bússola Animal junta tudo, confere na fonte oficial e aponta o caminho.</p>
+        <p class="dica-bussola" id="dica-bussola">Escolha um destino na bússola.</p>
+      </div>
+
+      <div class="bussola-palco" id="bussola-palco">
+        <svg class="bussola" id="bussola" viewBox="0 0 400 400" role="img" aria-label="Bússola com uma agulha que termina em uma patinha">
+          <circle cx="200" cy="206" r="182" fill="#17324D" opacity=".16"/>
+          <circle cx="200" cy="200" r="182" fill="#FFC93C" stroke="#17324D" stroke-width="10"/>
+          <circle cx="200" cy="200" r="150" fill="#FFFDF5" stroke="#17324D" stroke-width="5"/>
+          <g id="marcas" stroke="#17324D" stroke-linecap="round"></g>
+          <g id="agulha" class="agulha">
+            <path d="M200 96 L224 200 L200 304 L176 200 Z" fill="#BFE8D9" stroke="#17324D" stroke-width="5" stroke-linejoin="round"/>
+            <path d="M200 96 L224 200 L176 200 Z" fill="#FF5D73" stroke="#17324D" stroke-width="5" stroke-linejoin="round"/>
+            <g transform="translate(200 62)" fill="#17324D">
+              <ellipse cx="0" cy="10" rx="13" ry="11"/>
+              <circle cx="-15" cy="-3" r="5.5"/>
+              <circle cx="-5.5" cy="-11" r="5.5"/>
+              <circle cx="5.5" cy="-11" r="5.5"/>
+              <circle cx="15" cy="-3" r="5.5"/>
+            </g>
+          </g>
+          <circle cx="200" cy="200" r="13" fill="#17324D"/>
+          <circle cx="200" cy="200" r="5" fill="#FFC93C"/>
+        </svg>
+
+        <a class="destino destino-norte" href="#castra-aqui" data-angulo="0" data-dica="Descubra como castrar de graça na sua cidade.">
+          <span class="destino-titulo">Castrar de graça</span>
+          <span class="destino-estado">Disponível</span>
+        </a>
+        <a class="destino destino-sudeste" href="#em-breve" data-angulo="125" data-dica="Os primeiros 90 dias com o novo companheiro. Em breve.">
+          <span class="destino-titulo">Acabei de adotar</span>
+          <span class="destino-estado">Em breve</span>
+        </a>
+        <a class="destino destino-sudoeste" href="#em-breve" data-angulo="235" data-dica="Onde e como denunciar maus-tratos. Em breve.">
+          <span class="destino-titulo">Denunciar maus-tratos</span>
+          <span class="destino-estado">Em breve</span>
+        </a>
+      </div>
+    </section>
+
+    <section class="castra" id="castra-aqui" aria-labelledby="castra-titulo">
+      <div class="castra-cabeca">
+        <svg class="bicho bicho-cao" viewBox="0 0 160 150" aria-hidden="true">
+          <path d="M34 44 Q14 30 18 70 Q22 92 44 84 Z" fill="#B9692C" stroke="#17324D" stroke-width="5" stroke-linejoin="round"/>
+          <path d="M126 44 Q146 30 142 70 Q138 92 116 84 Z" fill="#B9692C" stroke="#17324D" stroke-width="5" stroke-linejoin="round"/>
+          <ellipse cx="80" cy="82" rx="52" ry="50" fill="#E9A23B" stroke="#17324D" stroke-width="5"/>
+          <ellipse cx="80" cy="104" rx="26" ry="20" fill="#FFFDF5" stroke="#17324D" stroke-width="5"/>
+          <ellipse cx="80" cy="93" rx="9" ry="7" fill="#17324D"/>
+          <path d="M80 100 V110 M70 113 Q80 120 90 113" fill="none" stroke="#17324D" stroke-width="4" stroke-linecap="round"/>
+          <circle cx="60" cy="70" r="6" fill="#17324D"/>
+          <circle cx="100" cy="70" r="6" fill="#17324D"/>
+        </svg>
+        <div>
+          <h2 id="castra-titulo">Castra Aqui</h2>
+          <p>Diga a cidade. A gente mostra quem pode pedir a castração gratuita, o passo a passo e o que levar.</p>
+        </div>
+      </div>
+
+      <form class="busca" id="busca" role="search" autocomplete="off">
+        <label for="cidade">Em que cidade você mora?</label>
+        <div class="busca-linha">
+          <div class="combo">
+            <input id="cidade" name="cidade" type="text" inputmode="search" placeholder="Ex.: Guarulhos"
+                   role="combobox" aria-expanded="false" aria-controls="sugestoes" aria-autocomplete="list">
+            <ul id="sugestoes" class="sugestoes" role="listbox" hidden></ul>
+          </div>
+          <button type="submit">Mostrar o caminho</button>
+        </div>
+        <p class="busca-nota">Por enquanto cobrimos a capital e a Região Metropolitana de São Paulo.</p>
+      </form>
+
+      <div id="resultado" class="resultado" aria-live="polite"></div>
+
+      <details class="todas">
+        <summary>Ver as 39 cidades</summary>
+        <p class="legenda"><span class="selo selo-ok">Conferida</span> ficha completa <span class="selo selo-espera">Em verificação</span> caminho geral</p>
+        <ul id="lista-cidades" class="lista-cidades"></ul>
+      </details>
+    </section>
+
+    <section class="embreve" id="em-breve" aria-labelledby="embreve-titulo">
+      <h2 id="embreve-titulo">Próximos destinos</h2>
+      <div class="embreve-grade">
+        <article class="postal postal-denuncia">
+          <svg class="bicho" viewBox="0 0 160 150" aria-hidden="true">
+            <path d="M36 62 L30 14 L70 42 Z" fill="#2B2B3A" stroke="#17324D" stroke-width="5" stroke-linejoin="round"/>
+            <path d="M124 62 L130 14 L90 42 Z" fill="#2B2B3A" stroke="#17324D" stroke-width="5" stroke-linejoin="round"/>
+            <ellipse cx="80" cy="86" rx="54" ry="46" fill="#2B2B3A" stroke="#17324D" stroke-width="5"/>
+            <ellipse cx="58" cy="80" rx="10" ry="12" fill="#FFC93C"/>
+            <ellipse cx="102" cy="80" rx="10" ry="12" fill="#FFC93C"/>
+            <ellipse cx="58" cy="80" rx="3" ry="10" fill="#17324D"/>
+            <ellipse cx="102" cy="80" rx="3" ry="10" fill="#17324D"/>
+            <path d="M74 100 L86 100 L80 107 Z" fill="#FF5D73"/>
+            <path d="M80 107 Q72 116 66 110 M80 107 Q88 116 94 110" fill="none" stroke="#FFFDF5" stroke-width="3" stroke-linecap="round"/>
+            <path d="M40 98 H14 M42 106 L18 114 M120 98 H146 M118 106 L142 114" stroke="#FFFDF5" stroke-width="3" stroke-linecap="round"/>
+          </svg>
+          <h3>Denuncie Certo</h3>
+          <p>Cada estado tem um canal diferente para denunciar maus-tratos. Vamos mostrar onde registrar, que provas juntar e como descrever o caso para a denúncia andar.</p>
+          <span class="selo selo-espera">Em breve</span>
+        </article>
+        <article class="postal postal-adocao">
+          <svg class="bicho" viewBox="0 0 160 150" aria-hidden="true">
+            <path d="M24 78 L80 26 L136 78 V134 H24 Z" fill="#FFFDF5" stroke="#17324D" stroke-width="5" stroke-linejoin="round"/>
+            <path d="M14 82 L80 22 L146 82" fill="none" stroke="#FF5D73" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M80 122 C52 102 56 78 70 78 C76 78 80 84 80 88 C80 84 84 78 90 78 C104 78 108 102 80 122 Z" fill="#FF5D73" stroke="#17324D" stroke-width="5" stroke-linejoin="round"/>
+          </svg>
+          <h3>Primeiros 90 Dias</h3>
+          <p>Muita adoção é desfeita nos três primeiros meses. Um guia semana a semana para a adaptação dar certo, e o que tentar antes de desistir.</p>
+          <span class="selo selo-espera">Em breve</span>
+        </article>
+      </div>
+    </section>
+
+    <section class="sobre" id="sobre" aria-labelledby="sobre-titulo">
+      <h2 id="sobre-titulo">Como a Bússola funciona</h2>
+      <ul class="principios">
+        <li><strong>Fonte oficial, sempre.</strong> Cada ficha leva você à página do órgão responsável.</li>
+        <li><strong>Data à vista.</strong> Toda ficha mostra quando foi conferida pela última vez.</li>
+        <li><strong>Só o que dura.</strong> Registramos programas permanentes e canais de inscrição. Datas de mutirão mudam toda semana e ficam de fora.</li>
+        <li><strong>De graça e sem rastro.</strong> Sem cadastro, sem anúncio e sem coletar dado de quem visita.</li>
+      </ul>
+      <div class="ajuda">
+        <h3>Sabe como funciona na sua cidade?</h3>
+        <p>As regras mudam, e a gente não enxerga tudo. Se você achou um erro ou conhece o caminho numa cidade ainda em verificação, conte para nós com o link da fonte oficial.</p>
+        <a class="botao" href="https://github.com/moraesalves/bussola-animal/issues/new">Sugerir uma correção</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="rodape">
+    <p>Bússola Animal é um projeto independente e aberto, sem vínculo com órgãos públicos. Confirme sempre no canal oficial indicado em cada ficha.</p>
+    <p>Animal em risco agora? Ligue <a href="tel:190">190</a>.</p>
+    <p><a href="https://github.com/moraesalves/bussola-animal">Código e dados no GitHub</a></p>
+  </footer>
+
+  <script src="js/app.js" defer></script>
 </body>
 </html>

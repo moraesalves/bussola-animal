@@ -26,7 +26,17 @@ O problema da castração gratuita não é geográfico, é de burocracia. Há tr
 - **Data de verificação em cada ficha**, com link para a fonte oficial.
 - **Hospedagem:** GitHub Pages, custo zero.
 
+### Primeira versão no ar
+
+- **Nome:** uma busca por "Bússola Animal" não mostrou nenhum projeto com esse nome. Não é uma checagem de marca registrada.
+- **Fichas:** levantadas seis cidades com página oficial clara: São Paulo, Guarulhos, Santo André, São Bernardo do Campo, Mauá e Ribeirão Pires. As outras 33 aparecem no site como "em verificação", com o caminho geral.
+- **Achado da pesquisa:** cada cidade usa um canal diferente. Portal 156 na capital, site próprio em Guarulhos, aplicativo em Santo André e Ribeirão Pires, WhatsApp em São Bernardo e balcão presencial em Mauá. Isso confirma a tese do projeto.
+- **O que deu errado:** a busca aberta trazia sobretudo notícias de mutirões, que envelhecem rápido. Passamos a buscar só dentro dos domínios das prefeituras. Para Osasco, só achamos páginas de 2020 a 2022, então a cidade ficou fora das conferidas.
+- **Lacunas assumidas:** São Bernardo e Ribeirão Pires não publicam a lista de documentos; a ficha diz isso em vez de supor.
+- **Visual:** bússola ilustrada com agulha de patinha que aponta para o destino escolhido, cão caramelo e gato preto desenhados em SVG, fontes abertas servidas do próprio site para não depender de terceiros.
+- **Testes:** navegador automatizado em tela de computador e de celular: busca com sugestões, ficha conferida, ficha em verificação, cidade fora da lista. Sem erros no console e sem rolagem lateral.
+
 ### Pendências
 
-- Verificar se o nome "Bússola Animal" já é usado por outro projeto.
-- Levantar as fichas dos 39 municípios.
+- Conferir as 33 cidades restantes.
+- Módulos Denuncie Certo e Primeiros 90 Dias.

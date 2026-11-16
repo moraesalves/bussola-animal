@@ -1,0 +1,232 @@
+{
+  "atualizado_em": "2026-11-16",
+  "abrangencia": "Capital paulista e Região Metropolitana de São Paulo (39 municípios)",
+  "municipios": [
+    {
+      "id": "sao-paulo",
+      "nome": "São Paulo",
+      "status": "conferido",
+      "orgao": "Cosap, Secretaria Municipal da Saúde",
+      "programa": "Programa Permanente de Controle Reprodutivo de Cães e Gatos",
+      "quem": [
+        "Quem mora na cidade de São Paulo e tem cão ou gato.",
+        "Animais de 3 meses a 10 anos.",
+        "A lei municipal limita a 10 cães ou gatos por residência."
+      ],
+      "passos": [
+        "Entre no Portal SP 156 e procure o serviço \"Castração de cães e gatos\".",
+        "Faça o cadastro, preencha os dados do animal e envie os documentos pelo próprio sistema.",
+        "Escolha a clínica contratada mais perto da sua casa.",
+        "Espere a clínica entrar em contato para marcar a cirurgia e passar as orientações."
+      ],
+      "documentos": [
+        "Documento oficial com foto, com RG e CPF",
+        "Comprovante de residência dos últimos 90 dias, no seu nome",
+        "Comprovante da vacina contra raiva, se tiver"
+      ],
+      "contatos": [
+        { "rotulo": "Pedir pela internet", "valor": "Portal SP 156", "href": "https://sp156.prefeitura.sp.gov.br/portal/servicos/informacao?servico=3726" },
+        { "rotulo": "Dúvidas", "valor": "cosap@prefeitura.sp.gov.br", "href": "mailto:cosap@prefeitura.sp.gov.br" }
+      ],
+      "observacoes": [
+        "Prefere resolver pessoalmente? Dá para pedir nas Praças de Atendimento da Prefeitura, com agendamento. Não precisa levar o animal.",
+        "Em bairros prioritários também há mutirões e o Castramóvel. A inscrição acontece antes da data e é avisada com cerca de uma semana de antecedência."
+      ],
+      "fontes": [
+        { "titulo": "Prefeitura de São Paulo: Castração gratuita", "url": "https://prefeitura.sp.gov.br/w/servico/castracao-gratuita" }
+      ],
+      "conferido_em": "2026-11-16"
+    },
+    {
+      "id": "guarulhos",
+      "nome": "Guarulhos",
+      "status": "conferido",
+      "orgao": "DPAN, Departamento de Proteção Animal",
+      "programa": "Castração gratuita do DPAN",
+      "quem": [
+        "Quem mora em Guarulhos e é maior de idade."
+      ],
+      "passos": [
+        "Entre no site do DPAN e abra a aba \"Agendamento\".",
+        "Crie seu cadastro para ter login e senha antes de as vagas abrirem.",
+        "Acompanhe no mesmo site o cronograma de abertura de vagas e faça o agendamento."
+      ],
+      "documentos": [
+        "RG",
+        "CPF",
+        "Comprovante de residência no seu nome"
+      ],
+      "contatos": [
+        { "rotulo": "Agendar pela internet", "valor": "dpan.guarulhos.sp.gov.br", "href": "https://dpan.guarulhos.sp.gov.br" },
+        { "rotulo": "Telefone", "valor": "(11) 2441-4656 ou (11) 2457-2112", "href": "tel:+551124414656" },
+        { "rotulo": "E-mail", "valor": "dpan@guarulhos.sp.gov.br", "href": "mailto:dpan@guarulhos.sp.gov.br" }
+      ],
+      "observacoes": [
+        "O Castramóvel atende bairro a bairro. Nesse caso o agendamento é presencial, no local onde o veículo estiver. Ligue para o DPAN para saber a programação."
+      ],
+      "fontes": [
+        { "titulo": "Prefeitura de Guarulhos: Carta de Serviços, Castração de Animais", "url": "https://www.guarulhos.sp.gov.br/cartadeservicos/meio-ambiente/castracao-de-animais" }
+      ],
+      "conferido_em": "2026-11-16"
+    },
+    {
+      "id": "santo-andre",
+      "nome": "Santo André",
+      "status": "conferido",
+      "orgao": "Departamento de Proteção e Bem-Estar Animal",
+      "programa": "Programa municipal de castração gratuita",
+      "quem": [
+        "Quem mora em Santo André e tem cão ou gato."
+      ],
+      "passos": [
+        "Tire o RG Animal do seu pet no SinPatinhas, o cadastro nacional gratuito.",
+        "Peça a castração pelo Colab (aplicativo ou site), pelo Portal de Serviços da Prefeitura ou por mensagem de WhatsApp.",
+        "Espere o contato com a data e o local. Mantenha seu telefone atualizado."
+      ],
+      "documentos": [
+        "RG Animal (SinPatinhas)",
+        "RG do tutor",
+        "Comprovante de endereço"
+      ],
+      "contatos": [
+        { "rotulo": "Pedir pela internet", "valor": "santoandre.colab.re", "href": "https://santoandre.colab.re" },
+        { "rotulo": "WhatsApp", "valor": "(11) 4433-0123", "href": "https://wa.me/551144330123" },
+        { "rotulo": "Telefone", "valor": "(11) 4433-1958", "href": "tel:+551144331958" },
+        { "rotulo": "RG Animal", "valor": "sinpatinhas.mma.gov.br", "href": "https://sinpatinhas.mma.gov.br" }
+      ],
+      "observacoes": [
+        "As cirurgias acontecem em clínicas credenciadas e no Castramóvel, que percorre os bairros."
+      ],
+      "fontes": [
+        { "titulo": "Prefeitura de Santo André: agendamento digital da castração", "url": "https://web.santoandre.sp.gov.br/portal/noticias/0/3/18918/santo-andre-digitaliza-agendamento-de-castracao-gratuita-de-caes-e-gatos" },
+        { "titulo": "Prefeitura de Santo André: Castramóvel em Paranapiacaba (jan/2026)", "url": "https://web.santoandre.sp.gov.br/portal/noticias/0/3/19906/paranapiacaba-recebe-castramovel-a-partir-desta-quarta-feira" }
+      ],
+      "conferido_em": "2026-11-16"
+    },
+    {
+      "id": "sao-bernardo-do-campo",
+      "nome": "São Bernardo do Campo",
+      "status": "conferido",
+      "orgao": "Hospital Público Veterinário e Centro de Controle de Zoonoses",
+      "programa": "Castração no Hospital Público Veterinário",
+      "quem": [
+        "Moradores de São Bernardo de baixa renda, atendidos por programas sociais.",
+        "Protetoras e protetores cadastrados no Centro de Controle de Zoonoses."
+      ],
+      "passos": [
+        "Chame no WhatsApp do agendamento de castração.",
+        "Confirme se você se encaixa nos critérios e marque a data.",
+        "Leve o animal no dia marcado. A castração só é feita com agendamento."
+      ],
+      "documentos": [
+        "Pergunte no agendamento quais documentos levar. A página oficial não traz a lista."
+      ],
+      "contatos": [
+        { "rotulo": "WhatsApp (castração)", "valor": "(11) 99227-1959", "href": "https://wa.me/5511992271959" },
+        { "rotulo": "Telefone do hospital", "valor": "(11) 4365-3349", "href": "tel:+551143653349" }
+      ],
+      "observacoes": [
+        "As vagas dependem de disponibilidade.",
+        "A cidade também recebe mutirões e o Castramóvel em bairros mais distantes. As datas são divulgadas pela Prefeitura."
+      ],
+      "fontes": [
+        { "titulo": "Guia de Serviços de São Bernardo: Hospital Público Veterinário", "url": "https://guiadeservicos.saobernardo.sp.gov.br/guia-de-servicos/servicos/217242/mostrar?assuntoOrigem=221" },
+        { "titulo": "Prefeitura de São Bernardo: Hospital Público Veterinário", "url": "https://www.saobernardo.sp.gov.br/en/hospital-publico-veterinario" }
+      ],
+      "conferido_em": "2026-11-16"
+    },
+    {
+      "id": "maua",
+      "nome": "Mauá",
+      "status": "conferido",
+      "orgao": "AME Animal",
+      "programa": "Castração de cães e gatos da AME Animal",
+      "quem": [
+        "Quem mora em Mauá e é responsável pelo animal."
+      ],
+      "passos": [
+        "Vá pessoalmente à AME Animal com os documentos. O agendamento é presencial.",
+        "Faça o cadastro do animal.",
+        "Espere ser chamado para a castração."
+      ],
+      "documentos": [
+        "RG (original e cópia)",
+        "CPF (original e cópia)",
+        "Comprovante de residência"
+      ],
+      "contatos": [
+        { "rotulo": "Onde ir", "valor": "Rua Almirante Tamandaré, 191, Vila Bocaina", "href": "https://www.google.com/maps/search/?api=1&query=Rua+Almirante+Tamandar%C3%A9+191+Vila+Bocaina+Mau%C3%A1" },
+        { "rotulo": "Horário", "valor": "Segunda a sexta, das 8h às 17h", "href": "" },
+        { "rotulo": "Telefone", "valor": "(11) 2312-9818 ou (11) 4512-7489", "href": "tel:+551123129818" }
+      ],
+      "observacoes": [
+        "A cidade também tem Castramóvel. Pergunte na AME Animal onde ele está atendendo."
+      ],
+      "fontes": [
+        { "titulo": "Prefeitura de Mauá: AME Animal, Castração de Cães e Gatos", "url": "https://ameanimal.maua.sp.gov.br/castracao-caes-e-gatos/" }
+      ],
+      "conferido_em": "2026-11-16"
+    },
+    {
+      "id": "ribeirao-pires",
+      "nome": "Ribeirão Pires",
+      "status": "conferido",
+      "orgao": "Bem-Estar Animal, Secretaria de Clima, Meio Ambiente e Habitação",
+      "programa": "Campanha permanente de castração gratuita",
+      "quem": [
+        "Tutores que moram em Ribeirão Pires."
+      ],
+      "passos": [
+        "Baixe o aplicativo Ribeirão Pires Digital, da Prefeitura.",
+        "Faça o agendamento da castração pelo aplicativo.",
+        "Leve o animal à base da equipe de Bem-Estar Animal no dia marcado."
+      ],
+      "documentos": [
+        "Confira no aplicativo o que levar. A página oficial não traz a lista."
+      ],
+      "contatos": [
+        { "rotulo": "Onde é feito", "valor": "Rua Catarina Rios Giachelo, 185, Colônia", "href": "https://www.google.com/maps/search/?api=1&query=Rua+Catarina+Rios+Giachelo+185+Ribeir%C3%A3o+Pires" }
+      ],
+      "observacoes": [
+        "A cidade também recebe mutirões do Governo do Estado. Nesses casos a inscrição costuma ser presencial, no mesmo endereço."
+      ],
+      "fontes": [
+        { "titulo": "Prefeitura de Ribeirão Pires: campanha permanente de castração", "url": "https://www.ribeiraopires.sp.gov.br/portal/noticias/0/3/8082/ribeirao-pires-mantem-campanha-permanente-de-castracao-gratuita-para-caes-e-gatos" }
+      ],
+      "conferido_em": "2026-11-16"
+    },
+    { "id": "aruja", "nome": "Arujá", "status": "em_verificacao" },
+    { "id": "barueri", "nome": "Barueri", "status": "em_verificacao" },
+    { "id": "biritiba-mirim", "nome": "Biritiba-Mirim", "status": "em_verificacao" },
+    { "id": "caieiras", "nome": "Caieiras", "status": "em_verificacao" },
+    { "id": "cajamar", "nome": "Cajamar", "status": "em_verificacao" },
+    { "id": "carapicuiba", "nome": "Carapicuíba", "status": "em_verificacao" },
+    { "id": "cotia", "nome": "Cotia", "status": "em_verificacao" },
+    { "id": "diadema", "nome": "Diadema", "status": "em_verificacao" },
+    { "id": "embu-das-artes", "nome": "Embu das Artes", "status": "em_verificacao" },
+    { "id": "embu-guacu", "nome": "Embu-Guaçu", "status": "em_verificacao" },
+    { "id": "ferraz-de-vasconcelos", "nome": "Ferraz de Vasconcelos", "status": "em_verificacao" },
+    { "id": "francisco-morato", "nome": "Francisco Morato", "status": "em_verificacao" },
+    { "id": "franco-da-rocha", "nome": "Franco da Rocha", "status": "em_verificacao" },
+    { "id": "guararema", "nome": "Guararema", "status": "em_verificacao" },
+    { "id": "itapecerica-da-serra", "nome": "Itapecerica da Serra", "status": "em_verificacao" },
+    { "id": "itapevi", "nome": "Itapevi", "status": "em_verificacao" },
+    { "id": "itaquaquecetuba", "nome": "Itaquaquecetuba", "status": "em_verificacao" },
+    { "id": "jandira", "nome": "Jandira", "status": "em_verificacao" },
+    { "id": "juquitiba", "nome": "Juquitiba", "status": "em_verificacao" },
+    { "id": "mairipora", "nome": "Mairiporã", "status": "em_verificacao" },
+    { "id": "mogi-das-cruzes", "nome": "Mogi das Cruzes", "status": "em_verificacao" },
+    { "id": "osasco", "nome": "Osasco", "status": "em_verificacao" },
+    { "id": "pirapora-do-bom-jesus", "nome": "Pirapora do Bom Jesus", "status": "em_verificacao" },
+    { "id": "poa", "nome": "Poá", "status": "em_verificacao" },
+    { "id": "rio-grande-da-serra", "nome": "Rio Grande da Serra", "status": "em_verificacao" },
+    { "id": "salesopolis", "nome": "Salesópolis", "status": "em_verificacao" },
+    { "id": "santa-isabel", "nome": "Santa Isabel", "status": "em_verificacao" },
+    { "id": "santana-de-parnaiba", "nome": "Santana de Parnaíba", "status": "em_verificacao" },
+    { "id": "sao-caetano-do-sul", "nome": "São Caetano do Sul", "status": "em_verificacao" },
+    { "id": "sao-lourenco-da-serra", "nome": "São Lourenço da Serra", "status": "em_verificacao" },
+    { "id": "suzano", "nome": "Suzano", "status": "em_verificacao" },
+    { "id": "taboao-da-serra", "nome": "Taboão da Serra", "status": "em_verificacao" },
+    { "id": "vargem-grande-paulista", "nome": "Vargem Grande Paulista", "status": "em_verificacao" }
+  ]
+}

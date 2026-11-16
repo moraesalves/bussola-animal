@@ -1,9 +1,22 @@
 # Dados
 
-Fichas em JSON, uma pasta por módulo:
+## `castra-aqui.json`
 
-- `castra-aqui/` — uma ficha por município
-- `denuncie-certo/` — uma ficha por estado
-- `primeiros-90-dias/` — conteúdo do guia
+Uma entrada por município, dentro de `municipios`.
 
-Toda ficha traz o link da fonte oficial e a data da última verificação. O formato de cada módulo será documentado aqui quando as primeiras fichas forem publicadas.
+| Campo | Significado |
+|---|---|
+| `id` | identificador sem acentos, usado no endereço (`#cidade=guarulhos`) |
+| `nome` | nome do município |
+| `status` | `conferido` (ficha completa) ou `em_verificacao` (mostra o caminho geral) |
+| `orgao` | órgão responsável |
+| `programa` | nome do programa |
+| `quem` | quem pode pedir |
+| `passos` | passo a passo, em ordem |
+| `documentos` | o que levar |
+| `contatos` | lista de `{rotulo, valor, href}` |
+| `observacoes` | avisos úteis |
+| `fontes` | lista de `{titulo, url}`, sempre páginas oficiais |
+| `conferido_em` | data da última verificação (AAAA-MM-DD) |
+
+Regras: só entra o que estiver em página oficial; datas de mutirão não entram; quando a fonte não informa algo, a ficha diz isso em vez de supor.
